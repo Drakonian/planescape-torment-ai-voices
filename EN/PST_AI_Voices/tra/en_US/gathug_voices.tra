@@ -1,0 +1,9 @@
+// Gathug - 7 voice lines
+
+@2825 = ~"What ho, traveler! You're in Razor Angel territory now... go talk to Krystall, our leader. She'll have something to say to you."~ [GA2825V]
+@3565 = ~"Listen to what I'm saying: Don't talk to me. Talk to Krystall. Talk to Krystall. Talk to Krystall. Get the picture?"~ [GA3565V]
+@3567 = ~"Hey, pally... thanks for taking out that vigilante. I'm sure I speak for everyone when I say we appreciate it. Krystall surely does."~ [GA3567V]
+@3569 = ~"Sure appreciate the help with the vigilante. Good luck with it!"~ [GA3569V]
+@3571 = ~"That'll drive the Darkalley Shivs away! The Alley is ours now!"~ [GA3571V]
+@3573 = ~"Teach those Darkalley Shivs a lesson!"~ [GA3573V]
+@3575 = ~"You dare show your face around here? Die, evil one!"~ [GA3575V]

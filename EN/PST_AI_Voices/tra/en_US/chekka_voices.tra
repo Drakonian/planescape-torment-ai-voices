@@ -1,0 +1,7 @@
+// Chekka - 5 voice lines
+
+@48041 = ~You see a drunken guard. He's dressed in the armor of Curst's finest, but it looks like all he's interested in protecting is his bub. He looks you over without much interest, his eyes dead.~ [CH48041V]
+@48045 = ~Chek'ka Plute looks you over carefully, with all the concentration a drunk man can muster. He sneers, and goes back to his tankard.~ [CH48045V]
+@48049 = ~"Chek'ka Plute. One a' Curst's elite." He belches.~ [CH48049V]
+@48084 = ~He points at Tainted Barse. "Watchin' him. They say he's got a tunnel here, and I wanna see him use it t' see if it's true. Waitin'. Watchin'. Go 'way now. I got watchin' t' do."~ [CH48084V]
+@48087 = ~The drunken guard staggers at you, roaring. It's obvious he'll see you dead first.~ [CH48087V]

@@ -1,0 +1,11 @@
+// Jarym - 9 voice lines
+
+@47884 = ~"What...? Who...?"~ [JA47884V]
+@47887 = ~"You again?!"~ [JA47887V]
+@47890 = ~"You're back. Did you manage to find one?"~ [JA47890V]
+@47894 = ~"Hello again. Pardon me for being abrupt, but now that I have that gem I need to prepare myself for the casting."~ [JA47894V]
+@47896 = ~"I really don't have time to talk with you. You see, I'm trying to figure out how I'm going to complete my spell without the key component."~ [JA47896V]
+@47899 = ~Jarym pauses for a second. "I guess it couldn't hurt. I am in need of a ruby to complete my spell. It must be of exceptional quality; not like the junk they sell at the marketplace. If you should find one, bring it back to me and I shall make it worth your while."~ [JA47899V]
+@47901 = ~"Don't give up. There has to be ruby around here somewhere."~ [JA47901V]
+@47903 = ~"You're supposed to be looking for a ruby, remember? If you find one bring it back here."~ [JA47903V]
+@47905 = ~"That's perfect! Where did you... never mind, here." Jarym takes the gem from you, handing you a good sum of coins. "Now if you don't mind, I'd like to work on my spell."~ [JA47905V]

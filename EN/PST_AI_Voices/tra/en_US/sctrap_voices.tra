@@ -1,0 +1,6 @@
+// SCTRAP - 4 voice lines
+
+@66878 = ~This is an old, fading, innocuous-looking parchment scroll, bound with a single red ribbon and smelling faintly of mildew. The ribbon is held in place with a plain wax seal.~ [SC66878V]
+@66882 = ~The scroll contains a few lines of shaky calligraphy and a strange rune. The calligraphy reads:  "this may not KILL you but it will SLOW you down I am SURE" "STOP CHASING ME YOU THIEVING BASTARDS it's MY body MINE MINE MINE " "now... DIE"~ [SC66882V]
+@66885 = ~The rune suddenly throbs, and the entire scroll begins to dissolve into a stinking, black mess. The fluid seeps directly into the flesh of your hands... in seconds, the magical hemotoxin has rendered your blood into black bile. You begin to die an exquisitely painful death...~ [SC66885V]
+@66887 = ~The rune suddenly throbs, and the entire scroll begins to dissolve into a stinking, black mess. The fluid seeps directly into the flesh of your hands... in seconds, the magical hemotoxin begins to render your blood into black bile. For a moment you clutch at yourself, howling in agony... and then the pain subsides. You have survived whatever horrible magic was placed upon the scroll.~ [SC66887V]

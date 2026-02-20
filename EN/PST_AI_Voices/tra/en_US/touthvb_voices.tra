@@ -1,0 +1,12 @@
+// Touthvb - 10 voice lines
+
+@33707 = ~This smiling, middle-aged woman trots up to you and curtseys. "'Lo, sir, an' well-met! Fer merely a single copper common I can offer me services as a tout. Somewheres I can point out fer ye?"~ [TO33707V]
+@33708 = ~This smiling, middle-aged woman waves cheerfully when she notices your approach. "Greetin's, sir! Fer merely a single copper common I can offer me services as a tout. Somewheres I can point out fer ye?"~ [TO33708V]
+@33709 = ~The woman looks at you skeptically, then shrugs. "A tout's a guide o' sorts, sir. I can helps ye 'round this part o' the Hive, I can."~ [TO33709V]
+@33710 = ~The woman palms the coin and curtseys. "This part o' the Hive has gates leadin' west an' south; locations o' note include the Mortuary, the Gatherin' Dust bar, the Dustman Memorial an' a mausoleum. I'd also recommend ye stay away from a particular alley that leads southwest; 'tis full o' dangerous thugs."~ [TO33710V]
+@33711 = ~"The Mortuary's that enormous, dome-shaped compound over in the northeast part o' the area. The Dustmen won't let ye inside, though, unless ye've got business there. Or if ye're dead, I suppose." She smiles at you.~ [TO33711V]
+@33712 = ~"'Tis in the southwest corner o' this area... a dome-shaped buildin' whose door faces southeast. The Gatherin' Dust's one o' the safer, more quiet taverns in the Hive."~ [TO33712V]
+@33713 = ~"Towards the middle o' the nortern half o' this area... 'tis a walled courtyard o' sorts, with an open archway in each wall. There's usually a gaggle o' Dustmen mournin' near the southeast entrance ta the place."~ [TO33713V]
+@33714 = ~"The mausoleum's in the northwest corner o' this area. Big ol' square tower-lookin' buildin', it is."~ [TO33714V]
+@33715 = ~"More o' the Hive, sir. There's a flophouse there, if ye're tired an' lookin' ta rest."~ [TO33715V]
+@33716 = ~"Just more o' the Hive, sir. There's a tattoo parlor that-away, an' the Smolderin' Corpse bar. Mess o' toughs there, too... there's a whole buildin' full o' them."~ [TO33716V]

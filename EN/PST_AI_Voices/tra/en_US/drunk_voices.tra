@@ -1,0 +1,7 @@
+// Drunk - 5 voice lines
+
+@9710 = ~This man is drunk out of his gourd. He can barely stand, much less speak to you. He reeks of liquor, vomit, and stale urine.~ [DR9710V]
+@9792 = ~The drunk seems only dimly aware of your speaking to him. He looks about, confused, trying to discover the source of your voice. You notice Annah creeping around behind him, most likely looking for a coin-purse.~ [DR9792V]
+@9793 = ~The drunk seems only dimly aware of your speaking to him. He looks about, confused, trying to discover the source of your voice.~ [DR9793V]
+@9795 = ~"Huh, huh? Whuh? G-guuuuurk!" He suddenly begins to retch copiously; you hop back to avoid being spattered. You won't be getting anything useful from this disheveled, stench-ridden waste of a life.~ [DR9795V]
+@9796 = ~"Huh, huh? Whuh? G-guuuuurk!" He suddenly begins to retch copiously; you and Annah hop back to avoid being spattered. You won't be getting anything useful from this disheveled, stench-ridden waste of a life.~ [DR9796V]

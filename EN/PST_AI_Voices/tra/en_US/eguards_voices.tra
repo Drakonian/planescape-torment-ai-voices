@@ -1,0 +1,6 @@
+// Eguards - 4 voice lines
+
+@57421 = ~This guardsmen turns as you approach, but makes no sound. Through the slits on his helm you can spy a pair of dull, apathetic eyes.~ [EG57421V]
+@57428 = ~The guard merely shrugs.~ [EG57428V]
+@57431 = ~The guard offers only a lazy sniff as a reply.~ [EG57431V]
+@57434 = ~This apathetic guardsman seems determined to ignore you entirely.~ [EG57434V]

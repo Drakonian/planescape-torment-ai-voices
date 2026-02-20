@@ -1,0 +1,8 @@
+// Strahan - 6 voice lines
+
+@32470 = ~You see a mid-sized man in long robes of deep black. His hair is neatly coifed and an impeccably trimmed goatee compliments his handsome features. Noticing your arrival, he puts down the book he was writing in and strides confidently over to you, smiling. "Impressive... I must admit, I never thought you would make it this far."~ [ST32470V]
+@32471 = ~"Who I am is of no consequence to you. What I want is the question that should concern you most." As he speaks, he looks you up and down, as if somehow fascinated by you.~ [ST32471V]
+@32472 = ~He takes a step back and cocks an eyebrow. "I want... your blood."~ [ST32472V]
+@32473 = ~The man starts to answer, but stops himself abruptly. An evil smile spreads across his face and he begins to laugh. "Yes... I suppose it is." He continues to laugh even harder at his own, private joke. You notice that his hands have begun to move at his sides. Slowly, they flit back and forth, tracing intricate patterns in the air.~ [ST32473V]
+@32474 = ~"Really? Well, by all means, give it your best effort." He smiles smugly and raises his hands before him. Slowly, they flit back and forth, tracing intricate patterns in the air.~ [ST32474V]
+@32475 = ~"I'm afraid you won't be going anywhere." He smiles smugly and raises his hands before him. Slowly, they flit back and forth, tracing intricate patterns in the air.~ [ST32475V]

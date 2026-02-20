@@ -1,0 +1,17 @@
+// Gib - 15 voice lines
+
+@58400 = ~You see an older man wearing shoddy clothes. He watches your approach with a bored expression.~ [GI58400V]
+@58405 = ~He continues to gaze at you with a bored look. Finally he nods. "Hello, cutter. Why are you rattling your bone-box at me?"~ [GI58405V]
+@58414 = ~He nods slowly as he looks away. "Well... I'm in this dung hole for stealing what ain't rightfully mine, not for answering damn fool questions..." He glares at you. "Go away."~ [GI58414V]
+@58419 = ~He frowns as he considers your words. You see his eyes travel along several of your scars and then meet your gaze. "You threatening me, berk?"~ [GI58419V]
+@58424 = ~He nods slowly. "What questions?"~ [GI58424V]
+@58433 = ~He hesitates. "Gib... the name's Gib."~ [GI58433V]
+@58440 = ~"Weren't you listening to me? I said I was a thief. I'm here because I got caught." He smiles. "If you're going to force me to answer questions the least you can do is make them somewhat intelligent."~ [GI58440V]
+@58446 = ~He shrugs.~ [GI58446V]
+@58450 = ~"The prison is divided into three rings, the outer, the central, and the inner. This is the outer ring where the petty criminals, thieves and such, are. The central ring is where the more hardened criminals, thugs and such, are. The inner ring is for the more dangerous criminals, murderers, conspirators, enemies of the government, and such."~ [GI58450V]
+@58454 = ~He gives you a concerned look. "That deva... yes, he's down here. You might want to reconsider finding him though."~ [GI58454V]
+@58464 = ~He nods. "You know about it then... yes, the plague. It hit us fast and hard, most who got it ended up in the dead-book." He frowns at you. "Anyone who knows you've been to see him won't go near you..."~ [GI58464V]
+@58470 = ~"Off that way..." He gestures vaguely. "You'll run into him eventually."~ [GI58470V]
+@58474 = ~"The chant is that he's a plague carrier." He gazes at you to see your reaction then shrugs. "I don't know that he is, myself, but the plague did start right when he showed up."~ [GI58474V]
+@58481 = ~"It hit us fast and hard, most who got it ended up in the dead-book." He frowns at you. "Anyone who knows you've been to see the deva won't go near you..."~ [GI58481V]
+@58487 = ~You see Gib, the thief. He frowns at your approach. "Back again... great."~ [GI58487V]

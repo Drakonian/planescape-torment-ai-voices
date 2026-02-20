@@ -1,0 +1,6 @@
+// Wit - 4 voice lines
+
+@43023 = ~This person is practicing various combat maneuvers on a wooden training dummy. They seem far too busy to speak with you at the moment.~ [WI43023V]
+@43025 = ~This person is breathing heavily and is covered in a fine sheen of sweat, as if they had just finished some strenuous exercise. They turn to you as you approach. "Yes?"~ [WI43025V]
+@43028 = ~They nod towards the training dummies. "The warrior's training chamber."~ [WI43028V]
+@43031 = ~"Qui-Sai?" They shrug, wiping sweat from their brow. "Somewhere in the Festhall, most likely. He's hard to miss... his skin is like gray stone."~ [WI43031V]

@@ -1,0 +1,6 @@
+// Copearc - 4 voice lines
+
+@46723 = ~This copper earring looks extremely old. It looks like it was meant to be worn, but there doesn't seem to be a hook or any means of actually attaching it to your ear. There is a series of strange grooves on the inside of the earring, however.~ [CO46723V]
+@46727 = ~The grooves are evenly spaced along the inside of the earring - upon closer examination, they remind you of small fangs. They are definitely man-made, but you can't figure out what they were intended for.~ [CO46727V]
+@46730 = ~You hook your fingernail into the third groove from the top and press it inwards. As you do, there is a *click* and the top of the earring snaps open. Not only can you wear the earring now, it also looks like there is a secret compartment inside the earring.~ [CO46730V]
+@46732 = ~You shake the earring, but nothing comes out. Whatever was hidden in the earring is gone now.  ^NNOTE: Discovering the latch to the earring will now allow you to wear it. In addition, the secret compartment may make the earring more valuable to a merchant.^-~ [CO46732V]

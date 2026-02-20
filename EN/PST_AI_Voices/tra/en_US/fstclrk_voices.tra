@@ -1,0 +1,8 @@
+// Fstclrk - 6 voice lines
+
+@49532 = ~The attractive young woman smiles pleasantly. "Something I might help you with, sir?"~ [FS49532V]
+@49536 = ~"You'd have to be a member of the Society of Sensation, sir, approved by Splinter. He's just inside the entrance to the Festhall, if you'd like to speak with him."~ [FS49536V]
+@49539 = ~"The Civic Festhall often rents out any unused chambers by the evening; you could certainly rest there, should one be available. Shall I check for you, sir?"~ [FS49539V]
+@49541 = ~The attractive young woman smiles pleasantly. "Greetings, sir." She closes her eyes and flips through a large ledger, stopping at what seems to be a random page and opening her eyes once more. "Ah... here's your room key..." She hands you a small key. "The easternmost chamber's been waiting quite some time for your return. Would you like to rest now, sir?"~ [FS49541V]
+@49545 = ~The clerk gives you a strange look. "My ledger indicates that this is your key, sir, and has been for a good, long time. If that is not so, then perhaps I'm merely mistaken. Would you like to rest now, sir?"~ [FS49545V]
+@49548 = ~The attractive young woman smiles pleasantly. "Greetings, sir. Would you like to rest, now?"~ [FS49548V]

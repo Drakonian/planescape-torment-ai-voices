@@ -1,0 +1,8 @@
+// Aalek - 6 voice lines
+
+@33862 = ~You see an older man with long, white hair and weathered yellow skin. He stands tall despite his obvious age. He smiles and gives you a slight bow.~ [AA33862V]
+@33865 = ~"And to you as well, cutter. How may I serve you?" He raises his eyebrows as he awaits your answer.~ [AA33865V]
+@33870 = ~He frowns. "Forgive me, cutter, but I sell items of a magical nature, not information. If it is information you need, then you must acquire it elsewhere."~ [AA33870V]
+@33874 = ~Null node~ [AA33874V]
+@33877 = ~You see Aalek, the merchant of magic. "Good day, cutter. It is nice to see you again. How may I serve you?"~ [AA33877V]
+@33880 = ~He nods and glances about the market. "Forgive me, cutter, I only sell magical items. You should talk to Cinder. His stall is over by the furnace, toward the exit."~ [AA33880V]

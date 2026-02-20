@@ -1,0 +1,6 @@
+// Codexi - 4 voice lines
+
+@50399 = ~What you had first taken to be a rather unassuming book held closed by a tiny brass lock is, in actuality, bound in strange leathers and enchanted bronze. It is labeled simply: 'The Codex of the Inconceivable.'~ [CO50399V]
+@50402 = ~You unlock the book's bindings and open it. As you glance over the tome's contents, your jaw drops. You stand, spellbound, flipping through its pages. Its contents are simply too much to be described - mere words seem powerless to explain the wonders it holds.~ [CO50402V]
+@50406 = ~You stand thoughtfully for a moment, looking down at the Codex, before closing it and reverently putting the tome away.~ [CO50406V]
+@50408 = ~The Codex of the Inconceivable is bound in strange leathers and enchanted bronze. Its contents are simply too much to be described - mere words seem powerless to explain the wonders it holds.~ [CO50408V]

@@ -1,0 +1,7 @@
+// Kuatraa - 5 voice lines
+
+@45430 = ~Moving from box to box, this man seems to be totally immersed in counting boxes and scribbling results down on a piece of parchment. He looks annoyed as you interrupt him. "What is it now? Can't you see I'm busy taking inventory? Go bother someone else."~ [KU45430V]
+@45432 = ~"You again! I thought I told you not to bother me."~ [KU45432V]
+@45435 = ~"Well, why didn't you say so in the first place? Let's see what you got for me. I'm sure it'll need to be inventoried."~ [KU45435V]
+@45438 = ~As you hold the box out for him to take, Ku'atraa's expression turns from one of interest to that of intense horror. "No! Please... get it away from me!"~ [KU45438V]
+@45440 = ~"I said... g-get back! Death... evil... had to d-dupe Mar... couldn't take it anymore. Please... take to Brasken... lives southwest... Hive... me... noooooo!" Apparently the sight of the box is just too much for him as he runs screaming from the building.~ [KU45440V]

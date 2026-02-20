@@ -1,0 +1,7 @@
+// Mit - 5 voice lines
+
+@43000 = ~This person is staring intently at a metal panel mounted on the chamber's wall. After a moment of fierce concentration, they wave their hands about and utter a string of impressive-sounding 'arcane syllables'... all to no effect. Nonetheless, they continue to practice diligently, far too involved with their work to speak with you.~ [MI43000V]
+@43002 = ~This person is carrying a sheaf of papers and unwound scrolls; they occasionally pause to look through them and read portions of what's written aloud, practicing elaborate hand-motions as they do so. They look up as you come to stand before them. "Greetings..."~ [MI43002V]
+@43005 = ~"This is where aspiring mages can come to train and study. Many wizards took their first steps in the Art as fledgling sorcerers, here."~ [MI43005V]
+@43008 = ~"I do not know where Lady Thorncombe has gone. I would suggest you try the sensoriums... she spends much of her time there..." They lower their voice, frowning: "Perhaps too much."~ [MI43008V]
+@43011 = ~"Ask Splinter, just inside the Festhall's entrance, of them. You cannot reach them yourself, but he will take you there."~ [MI43011V]

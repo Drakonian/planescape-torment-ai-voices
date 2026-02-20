@@ -1,0 +1,7 @@
+// Murk - 5 voice lines
+
+@58784 = ~You see a merchant, there is nothing remarkable about him. He smiles and nods at your approach.~ [MU58784V]
+@58789 = ~He nods curtly to you. "And to you as well. I'm Murk, you interested in some goods?"~ [MU58789V]
+@58793 = ~He shakes his head and frowns. "I don't sell information. If it's questions you have, take them elsewhere."~ [MU58793V]
+@58796 = ~His eyes light up and he smiles wickedly. "Well... I happen to carry a fine selection of gauntlets and axes. The only thing better than beating something to a pulp with your own two hands is slicing it into quivering pieces."~ [MU58796V]
+@58799 = ~You see Murk, the merchant. He nods at your approach. "Hello again. What can I do for you?"~ [MU58799V]

@@ -1,0 +1,10 @@
+// Dillon - 8 voice lines
+
+@7095 = ~"Aieee! Guards! The intruder be here!"~ [DI7095V]
+@7097 = ~"Sahr, you'll have to be leavin'. If you're t'be escorted away, I don't want to be keepin' you here."~ [DI7097V]
+@7099 = ~"What can I do for ye, sahr?"~ [DI7099V]
+@7106 = ~"I'm sorry, sahr. The supervisor tells me that ye've spent too much time at th' forge. We need to allow some others at it. My apologies, sahr."~ [DI7106V]
+@7111 = ~"Ye want some ore? Very well. Use it well, sahr. It wants to be treated kind."~ [DI7111V]
+@7114 = ~"It were the strangest thing! Once Saros got locked up, Thildon just disappeared. No note, no explanation... nothing. Just up and left. He was a right bastard, so no one were too sad he were gone."~ [DI7114V]
+@7118 = ~"Well! Once he got arrested and locked up, we did our level best to make sure he got vanished from memory. We always hated that berk, we did, and it were a relief to have him gone."~ [DI7118V]
+@7122 = ~"'T'were a damn shame to see Saros gone. As a trade-off for that leatherhead Thildon, though... that's a bargain with a fiend, that's for sure. Y'love Saros, but Thildon? He's gone. It's good enough."~ [DI7122V]

@@ -1,0 +1,11 @@
+// Shad - 9 voice lines
+
+@23309 = ~"I said don't talk to me." The wererat still won't look at you.~ [SH23309V]
+@23310 = ~"Don't you have someplace else to go? Like, not here?" The wererat's voice is languid and unworried.~ [SH23310V]
+@23915 = ~"Don't talk to me. Talk to Raimon." The wererat avoids your gaze.~ [SH23915V]
+@23916 = ~"Big man, eh? Get goin' before Raimon gets up his courage and calls for reinforcements." This wererat seems strangely unconcerned.~ [SH23916V]
+@23917 = ~He shrugs.~ [SH23917V]
+@23918 = ~"Aw, for the love of... I guess you gotta die, berk..."~ [SH23918V]
+@23919 = ~After having slain his fellow wererat, this fellow looks square at Annah. "Annah, it's Shaddeus. I'm lettin' you out. I can't stand to see you caged like this. Put in a kind word for me should you make it back to the Village, and let 'em know that somethin' bad's coming that way. Can't say what, yet, but... just so you know."~ [SH23919V]
+@23920 = ~"Aye, then." He takes the keys from Raimon's body, unlocks the door, and opens it for you. "Get going, now." He gives a quick bow and scampers away.~ [SH23920V]
+@23921 = ~"You're wondering why I did that, aren't you? I used to be a Buried Villager. Shaddeus was my name. I don't want to be a wererat, and I don't figure that it makes me any less loyal to humanity to have this disease. Get out. Now." He unlocks the door, opens it for you, and scampers away.~ [SH23921V]

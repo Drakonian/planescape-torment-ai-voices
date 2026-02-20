@@ -1,0 +1,16 @@
+// Thugoe - 14 voice lines
+
+@30170 = ~You see a shady looking fellow standing before you, picking his teeth with what appears to be a tiny metal fork. His chest is covered by patchwork armor adorned with large spikes, and a long knife hangs at his side. You notice he is missing his right ear.~ [TH30170V]
+@30171 = ~He regards you coolly from the shadows, as if sizing you up.~ [TH30171V]
+@30172 = ~The one-eared tiefling scowls at you threateningly. "Pike off, berk... or I'll have your guts for garters."~ [TH30172V]
+@30173 = ~"What did yeh just say?" His right hand drifts to the hilt of his knife.~ [TH30173V]
+@30174 = ~"I donnae know what ye're talkin' about, berk." He glares at you angrily. "Now, I suggest yeh get yer mangled carcass out of my sight before I carve my name into yeh!"~ [TH30174V]
+@30175 = ~With a flash of movement too quick to follow, he whips his knife from its sheath and begins waving it menacingly before you. "Why don't yeh come an' take it from me, berk?"~ [TH30175V]
+@30176 = ~"Aye, it do look as though yeh seen yer share of slashin'." He manages a small chuckle, then runs his fingers across the scars on the side of his head. "At least yeh still have both ears."~ [TH30176V]
+@30177 = ~"A while back, I bobbed an ol' petitioner sod..." His face takes on a sullen expression as he begins to relate the tale. "The silly blighter wouldn't go along wit' it..."~ [TH30177V]
+@30178 = ~"So I has t'get rough wit' the ol' sod... an' while we was scrappin', he gets a hold of my ear an' bites it clean off!"~ [TH30178V]
+@30179 = ~"What do yeh think happened? The barmy sod bit my ear off, so I thumped his skull and put him in the dead-book! I'm right sorry I did, too..." He glances around nervously before continuing. "I think his spirit's hauntin' me."~ [TH30179V]
+@30180 = ~He nods and quickly traces a semicircle over his heart. "Aye, 'tis true. Sometimes I hear his voice in my head, cursin' an' tellin' me how he's waiting for me. Scares the pants off me, it does."~ [TH30180V]
+@30181 = ~He takes a step back from you and cocks his head slightly. "Yeh can do that? How?"~ [TH30181V]
+@30182 = ~He eyes you suspiciously for a moment, then shrugs his shoulders in resignation. "Alright, cutter... here yeh go. Don't s'pose it's worth much anyhow." He hands you a small, steel fork. "Just get rid of the spirit, will yeh?"~ [TH30182V]
+@30183 = ~"Yeh sure do have a sharp tongue, berk. I think I'll cut it out an' feed it to you!" He lunges at you, his knife leading the way.~ [TH30183V]

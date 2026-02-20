@@ -1,0 +1,10 @@
+// Dustfb - 8 voice lines
+
+@2305 = ~You see a somber, pale-faced woman in black robes. She is staring into the distance and doesn't appear to notice you.~ [DU2305V]
+@2308 = ~You see a somber, pale-faced Dustwoman in black robes. She is staring into the distance and doesn't appear to notice you.~ [DU2308V]
+@2309 = ~She turns slowly to face you. "Yes?"~ [DU2309V]
+@2310 = ~She folds her arms into her robes and waits.~ [DU2310V]
+@2311 = ~She shakes her head.~ [DU2311V]
+@2312 = ~She shakes her head.~ [DU2312V]
+@66589 = ~"Pharod is a Collector." The woman studies you for a moment. "If you would wish to know more of him, I am told that Initiate Emoric in the Gathering Dust Bar also seeks him. It may be that he can help you."~ [DU66589V]
+@66590 = ~"As one leaves the Mortuary Front Gate, head south and west. It lies past the memorial."~ [DU66590V]

@@ -1,0 +1,8 @@
+// WERERAT - 6 voice lines
+
+@23941 = ~The wererat hisses at you. "Huuuuuman! Dieeee!" It leaps to the attack.~ [WE23941V]
+@23942 = ~The wererat hisses at you. "Huuuuuman! Dieeee!" It leaps to the attack.~ [WE23942V]
+@23943 = ~The wererat hisses at you, but stays its hand from its obvious desire to attack. Instead, it slinks backward, keeping an eye on you.~ [WE23943V]
+@23944 = ~The humanoid rat chitters at you, and shakes its head as you try to communicate with it. It has apparently lost its desire to speak with humans.~ [WE23944V]
+@23945 = ~The wererat hisses at you. "Huuuuuman! Dieeee!" It leaps to the attack.~ [WE23945V]
+@67268 = ~The wererat hisses at you, but stays its hand from its obvious desire to attack. Instead, it slinks backward, keeping an eye on you.~ [WE67268V]

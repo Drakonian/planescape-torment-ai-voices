@@ -1,0 +1,5 @@
+// Tpaint - 3 voice lines
+
+@36403 = ~You see a slender tiefling girl standing with her back to you. You notice that both her hands and the upended table in front of her are smeared with a fresh coat of what appears to be pink paint. She seems oblivious to your approach.~ [TP36403V]
+@36404 = ~At the sound of your voice, the girl turns her head to regard you. Her face, though somewhat dirty and spattered with drops of pink, is strikingly beautiful. She flashes you a wide, mischievous smile, then returns her attention to the makeshift canvas.~ [TP36404V]
+@36405 = ~The tiefling girl seems totally immersed in her artwork. She ignores you entirely.~ [TP36405V]

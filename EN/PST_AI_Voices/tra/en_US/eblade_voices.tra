@@ -1,0 +1,6 @@
+// Eblade - 4 voice lines
+
+@55077 = ~This weapon appears to be made of an unusual metal. Examining it reveals that it is constructed of one solid piece of metal rather than a blade inserted into a hilt. As you ponder this the blade begins to shift and change in your hand. It looks as if it is trying to break free of its current form.~ [EB55077V]
+@57692 = ~The metal of the blade begins to writhe and pulse in your hand. You can almost sense a feeling of anticipation emanating from the blade. What form do you will it to take?~ [EB57692V]
+@57767 = ~There is a flurry of activity as the blade undergoes some astounding changes. Within moments you have the weapon of your choice.~ [EB57767V]
+@57772 = ~The blade suddenly stops writhing and settles into its current form.~ [EB57772V]

@@ -1,0 +1,10 @@
+// Touthva - 8 voice lines
+
+@33670 = ~This loud, grimy fellow saunters up to you and gives a quick bow. "Greetin's, cutter! Only a single copper fer me services as a tout! Wot can I leads ye ta?"~ [TO33670V]
+@33671 = ~This loud, grimy fellow is quick to notice he's got your attention. "Well met, cutter! Only a single copper fer me services as a tout! Wot can I leads ye ta?"~ [TO33671V]
+@33672 = ~The man raises an eyebrow, then shrugs. "A guide, cutter... I points out what ye needs ta find 'round this part o' the Hive."~ [TO33672V]
+@33673 = ~The man palms the coin and bows. "This part o' the Hive has gates leadin' east, north an' southwest; locations o' note include the Flophouse, where a weary blood can get some rest."~ [TO33673V]
+@33674 = ~"Right in the middle o' this part o' the Hive, cutter... a long, narrow buildin' whose door faces southeast. Good place ta call kip fer a night if ye're feelin' beat."~ [TO33674V]
+@33675 = ~"It leads ta' Ragpicker's Square, cutter... where all the Collectors call kip."~ [TO33675V]
+@33676 = ~"To another part o' the Hive, cutter. The Mortuary's there, an' the Gatherin' Dust bar, too, where the Dustmen like ta drink. There's a mausoleum an' the big Dustman Memorial there, as well."~ [TO33676V]
+@33677 = ~"Just another part o' the Hive, cutter. The Office fer Vermin an' Disease Control is there, an' a large Market."~ [TO33677V]

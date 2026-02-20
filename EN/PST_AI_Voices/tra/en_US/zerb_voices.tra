@@ -1,0 +1,7 @@
+// Zerb - 5 voice lines
+
+@51192 = ~This huge creature stands over nine feet tall. Rippling muscles support its massive frame. It seems to be engaged in conversation with two similar creatures next to it.~ [ZE51192V]
+@51195 = ~He turns at your greeting and begins to look about. After a moment he looks down and notices you. A look of confusion crosses his features. "What you want of Zerb?"~ [ZE51195V]
+@51198 = ~He gives you an apologetic look and shakes his head. "Zerb not speak language well. Sorry, you talk Thorp." He gestures to one of the creatures next to him.~ [ZE51198V]
+@51200 = ~You see Zerb. He looks down at you and smiles. "Zerb greet you again."~ [ZE51200V]
+@51203 = ~You see Zerb. He looks down at you and bows. "Zerb greet you, friend. Zerb thank you for saving life." He turns away.~ [ZE51203V]

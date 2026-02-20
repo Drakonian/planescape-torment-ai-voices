@@ -1,0 +1,11 @@
+// Touthvd - 9 voice lines
+
+@33815 = ~This attractive, scantily-clad woman calls out to you as she makes her approach. "Pardon me, good sir! Pardon! Ye seem a bit lost, if I may be so bold... would ye require the services of a tout, perchance? Only a single copper, sir..."~ [TO33815V]
+@33816 = ~"Do ye require the services of a tout, good sir? T'would cost ye but a single copper..."~ [TO33816V]
+@33817 = ~"A guide, sir, to see you 'round this part of the Hive."~ [TO33817V]
+@33818 = ~"I thank ye, sir... 'tis jink well-spent." She pockets the copper coin. "There's two gates leadin' from here - both are on the westernmost side of the area, one in the north, and one in the south. Two places ye may wish to visit are the Smolderin' Corpse bar and a tattoo parlor. Lastly, there's a set of buildings oft-times called the Tenement of Thugs... a dangerous, dangerous place, sir."~ [TO33818V]
+@33819 = ~"'Tis in the very middle of the area, sir... a square buildin' with a domed roof. Walk along the southernmost east-west road; ye'll see its entrance facing to the south."~ [TO33819V]
+@33820 = ~"The parlor's at the eastern end of this area, sir... a dome building with wrought iron mesh atop it... its entrance faces southwest."~ [TO33820V]
+@33821 = ~"To the part of the Hive where the Mortuary lies, sir. The Gathering Dust bar, the Dustman Memorial, and a mausoleum are there as well."~ [TO33821V]
+@33822 = ~"The gate leads to the part of the Hive which holds the Office for Vermin and Disease Control, as well as a decent-sized market."~ [TO33822V]
+@33823 = ~She nods. "'Tis a cluster of buildings along the northern side of this area, sir... ye'll want to avoid the place. Unless, of course, ye're spoilin' for a fight, sir."~ [TO33823V]

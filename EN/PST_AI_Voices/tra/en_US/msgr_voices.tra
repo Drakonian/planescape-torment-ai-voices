@@ -1,0 +1,10 @@
+// Msgr - 8 voice lines
+
+@43384 = ~This slender young man approaches you wearing a somewhat worried expression. "One thousand pardons, sir, but I am looking for a certain man, and I think you might be able to help me..."~ [MS43384V]
+@43818 = ~"But if you'll only give me a moment, sir... it shan't take but a few breath's time..."~ [MS43818V]
+@43821 = ~"I am a messenger, sir, who seeks a man it's said cannot die... a scarred man, for whom death is nothing but the most trivial of annoyances. You match the admittedly vague description I was given, sir, and I had wondered if you were he."~ [MS43821V]
+@43825 = ~He nods, then bows deeply to you. "A message for you then, sir: Mistress Jolmi of the House Syrma, a lady of high standing, has sent me. Mistress Jolmi would meet you in the Civic Festhall, where she would make a proposal - of which I know nothing - to you. Should you choose to seek her out, she wears green silks, trimmed with gold, and has hair the color of blue steel. That is the extent of my message, sir... farewell."~ [MS43825V]
+@43828 = ~"In the northeastern corner of this part of the Clerk's Ward, sir. 'Tis a large structure, and should be easy to spot. Farewell now, sir."~ [MS43828V]
+@43830 = ~"A pity, then. Farewell, sir - my apologies for having troubled you. Farewell."~ [MS43830V]
+@43832 = ~"I am in the hire of a wealthy noblewoman, Jolmi Syrma, sir."~ [MS43832V]
+@43835 = ~The young messenger gives a polite half-bow. "We meet again, sir."~ [MS43835V]

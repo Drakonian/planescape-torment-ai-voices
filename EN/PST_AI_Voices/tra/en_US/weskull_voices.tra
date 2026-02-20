@@ -1,0 +1,13 @@
+// Weskull - 11 voice lines
+
+@31810 = ~This strangely-shaped skull emits a high-pitched chitter before it speaks to you. "C-c-c-can I h-help you?"~ [WE31810V]
+@31816 = ~"Y-y-y-y-you again?"~ [WE31816V]
+@31822 = ~"I'm G-g-g-g-goatscomb. I was a wererat."~ [WE31822V]
+@31824 = ~"It's e-e-e-embarrassing. I was in rat-form looking for some f-f-f-food at the Smoldering Corpse, when... let's j-j-j-just say I never expected a serving wench to have a s-s-s-silver fork. Mantuok f-f-found me twitching, and I w-w-w-wound up here."~ [WE31824V]
+@31829 = ~Goatscomb's skull falls entirely silent. If it had eyes, you're sure they'd be rolling around in terror. "Go... away..." the skull whispers. It refuses to speak to you.~ [WE31829V]
+@31831 = ~"They're all m-m-most judgmental. J-j-just because they were m-m-mostly human skulls, they th-th-think they're somehow b-b-b-better than me. I h-h-HATE them."~ [WE31831V]
+@31836 = ~"Oh, a g-g-g-great number. R-r-ravens, w-wolves, b-b-bears, badgers... even c-c-crocodiles! It's like all the animals in the B-b-beastlands have a lycanthropic c-c-c-counterpart. I-I-I-it's quite interesting, really."~ [WE31836V]
+@31840 = ~"That s-s-s-sodding hedge-wizard! That b-b-b-bubber! I made him what he is today. Y-y-y-years ago, when he was just a stinking b-b-b-biped, I found him and m-made his leg a sn-sn-snack. Tasted like pickled m-m-m-meat. I was dr-drunk for d-d-d-d-days. Then he shows up. Then he g-g-gets some fancy b-b-book, and I'm y-y-y-yesterday's trash and a decoration on a sh-sh-shelf. Bastard."~ [WE31840V]
+@31844 = ~"There's M-m-m-mantuok and his band. I made him, and w-w-w-what does he do? Goes and sells me to L-l-lothar! That's okay, though... I sp-sp-spilled all his secrets to the boss. Mantuok may think h-he's safe, but Lothar kn-n-n-nows everything."~ [WE31844V]
+@31849 = ~"K-k-killing a lycanthrope is easy. Just f-f-find a silver or m-m-magic weapon, and stick 'em! Normal weapons d-d-d-don't work so well, though... was a t-t-t-time I got folks to shoot me fulla arrows. D-d-d-d-didn't do nothing but sting. I looked like a p-p-p-porcupine!"~ [WE31849V]
+@31851 = ~"His s-s-s-secret is that he works for b-b-b-both Lothar and M-m-m-many-as-One, the cranium rat hive mind. I don't know w-w-w-what he's planning, b-b-but ... it doesn't m-m-m-m-matter, because I t-t-t-told Lothar all of it anyway."~ [WE31851V]

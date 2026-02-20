@@ -1,0 +1,7 @@
+// Jujog - 5 voice lines
+
+@53212 = ~This large guardsman is bellowing orders to the civilians gathered around him. He glares at you through the slits of his helm as you interrupt him. "What d'ya want, piker? An' make it quick, afore we get ta workin' 'ere."~ [JU53212V]
+@53215 = ~"What's it look like, ya sod?! We're about ta loot this warehouse. Ya want in on the action, or not? 'Cause this ain't gonna be some sorry-arse, disorderly mess... we're doin' it *right,* an' I'm givin' the orders."~ [JU53215V]
+@53223 = ~The guardsman lifts the visor of his helm so that he may spit at your feet. "Hah! Out of my face, sod; we've lootin' to do."~ [JU53223V]
+@53229 = ~You can sense his sneer even from behind the visored helm. "Oh there *won't,* eh? Well, then..." He hefts his massive weapon. "We'll just have ta remedy that, then."~ [JU53229V]
+@53234 = ~"But... ah, hells; ye're right." He shouts to the looters who've gathered around him: "Right! You heard the man, let's get goin'! And if anyone speaks o' this if we get the town slid back... ye're dead! Now let's go! Move!" He turns to you again. "And as fer *you:* ye've a better brain on yer shoulders than it looks. Good man."~ [JU53234V]

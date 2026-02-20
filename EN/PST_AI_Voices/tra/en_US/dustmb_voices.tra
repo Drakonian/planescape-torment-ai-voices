@@ -1,0 +1,10 @@
+// Dustmb - 8 voice lines
+
+@2324 = ~You see a somber, pale-faced man in black robes. He doesn't appear to notice you.~ [DU2324V]
+@2325 = ~You see a somber, pale-faced Dustman in black robes. He doesn't appear to notice you.~ [DU2325V]
+@2326 = ~He turns slowly to face you. "Yes?"~ [DU2326V]
+@2327 = ~He folds his arms into his robes and waits.~ [DU2327V]
+@2328 = ~He shakes his head.~ [DU2328V]
+@2329 = ~He shakes his head.~ [DU2329V]
+@66581 = ~"Pharod is a Collector." The man studies you for a moment. "If you would wish to know more of him, I am told that Initiate Emoric in the Gathering Dust Bar also seeks him. It may be that he can help you."~ [DU66581V]
+@66584 = ~"As one leaves the Mortuary Front Gate, head south and west. It lies past the memorial."~ [DU66584V]

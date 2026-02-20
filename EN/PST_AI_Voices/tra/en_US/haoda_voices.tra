@@ -1,0 +1,5 @@
+// Haoda - 3 voice lines
+
+@49891 = ~You seem to have startled her. She abruptly stops rummaging through the tent and stares at you nervously.~ [HA49891V]
+@49894 = ~"I wasn't doing nothing! I swears it!"~ [HA49894V]
+@49897 = ~She looks at you as if about to tell you something and then she quickly dashes for the door.~ [HA49897V]

@@ -1,0 +1,6 @@
+// Gildea - 4 voice lines
+
+@58500 = ~You see a young woman. She appears to be quite bored. She perks up at your approach. "Good day to you, cutter. May I help you?"~ [GI58500V]
+@58503 = ~She smiles. "I am Gildea. Would you care to see my wares?"~ [GI58503V]
+@58507 = ~She shakes her head. "I am a simple merchant, I have no answers for you."~ [GI58507V]
+@58510 = ~You see Gildea the merchant. She smiles at you. "Welcome back. What can I do for you?"~ [GI58510V]

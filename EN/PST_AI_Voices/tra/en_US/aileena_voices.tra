@@ -1,0 +1,13 @@
+// Aileena - 11 voice lines
+
+@58096 = ~You see a young woman wearing dirty work clothes. She nods at your approach.~ [AI58096V]
+@58100 = ~"Hello... you need something?"~ [AI58100V]
+@58103 = ~"All right."~ [AI58103V]
+@58109 = ~"The name's Aileena."~ [AI58109V]
+@58112 = ~"Processing work orders. I receive various orders for goods from merchants throughout the city. I then pick the items and ready them for shipment."~ [AI58112V]
+@58116 = ~She smiles. "It is, actually..." She sighs and shrugs her shoulders. "If it weren't, I certainly wouldn't be doing it."~ [AI58116V]
+@58120 = ~She frowns in thought. "Well... it's not an easy job and it should be done by more than one person. However, the boss is a cheap son of a harlot and won't hire another person."~ [AI58120V]
+@58124 = ~She smiles again. "Devore, the boss, may be cheap but he has a nice streak in him. He actually gives us all a day off each week with pay!"~ [AI58124V]
+@58127 = ~She shrugs. "There's nothing to tell. If you've seen one warehouse, you've seen them all. This one is no different."~ [AI58127V]
+@58130 = ~She gives you a confused look for a moment. "I was about to say you're barmy to be looking in Curst... but I do remember something about a deva." She pauses. "I can't remember what though. I think you should go to the administration office and ask there. It's in the town square."~ [AI58130V]
+@58133 = ~You see Aileena, the warehouse worker. She smiles and nods at your approach. "Hello again. What's up?"~ [AI58133V]

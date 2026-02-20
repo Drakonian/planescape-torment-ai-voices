@@ -1,0 +1,13 @@
+// Jaydee - 11 voice lines
+
+@58535 = ~You see a warehouse worker. He seems quite intent on his work and doesn't notice your approach.~ [JA58535V]
+@58542 = ~He pauses at what he is doing and turns to face you. "May I help you?"~ [JA58542V]
+@58549 = ~He frowns. "I have a lot of work to do and I don't have time for questions. Sorry." He starts to turn away.~ [JA58549V]
+@58554 = ~He sighs as he turns to face you. "A quick question... do you know how many times a day I hear that?" He glares at you.~ [JA58554V]
+@58559 = ~"Well let me tell you... too many! Every time some sodding berk knows he's going to be annoying as all Baator because he can see you're busy but can't wait to ask his damn fool question another time it's always just a *quick* question!" He glares at you angrily. "And you know what?"~ [JA58559V]
+@58563 = ~He raises his voice and starts waving his arms around. "He's lying! He knows it's not going to be a *quick* question! He knows it's going to take a sodding essay in order to get a proper answer. But! He tells you it's going to be quick! You know why?"~ [JA58563V]
+@58567 = ~"Because he thinks you're STUPID! He thinks you're not going to notice the inordinate amount of time it takes to answer his question. Oh no! He said it was a quick question so it doesn't matter that it takes half an hour out of your time to answer! You're STUPID and won't notice!"~ [JA58567V]
+@58572 = ~"Why? You've already interrupted me and broken my train of thought! Ask your sodding question, take an hour out of my busy day, and be done with it." He glares at you.~ [JA58572V]
+@58575 = ~"Yeah, I've heard that as well. The rumor mill says he's in the prison. If that's the case, you need to go to the administration building in the town square and ask about him. Now leave me be..." He turns away from you.~ [JA58575V]
+@58577 = ~He pauses to glare at you. "Busy? Have you seen my work schedule? You have no concept of busy, berk." He snorts. "Damn thing keeps changing too, that's the best part of having the sodding schedule! Every day something's added to it or taken off so that something else can be added."~ [JA58577V]
+@58580 = ~You see an angry warehouse worker. He seems quite intent on his work until he notices you approach. "Oh, it's you again. Let me guess, you have a *quick* question for me."~ [JA58580V]

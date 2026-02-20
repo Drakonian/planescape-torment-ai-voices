@@ -1,0 +1,10 @@
+// Dusthgg - 8 voice lines
+
+@66596 = ~You see a pale-faced Dustman standing guard over the front gate; he is staring off across the city rooftops with a distant expression. As you approach, he turns to face you. "Yes?"~ [DU66596V]
+@66599 = ~He nods and waits.~ [DU66599V]
+@66605 = ~"What is your purpose within the Mortuary?"~ [DU66605V]
+@66612 = ~He nods. "Very well. Follow me."~ [DU66612V]
+@66614 = ~He shakes his head. "You are not permitted inside."~ [DU66614V]
+@66617 = ~"Pharod is a Collector." The man studies you for a moment. "If you would wish to know more of him, I am told that Initiate Emoric in the Gathering Dust Bar also seeks him. It may be that he can help you."~ [DU66617V]
+@66621 = ~"As one leaves the Mortuary Front Gate, head south and west. It lies past the memorial."~ [DU66621V]
+@66624 = ~He shakes his head. "No."~ [DU66624V]

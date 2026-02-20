@@ -1,0 +1,18 @@
+// Amarys - 16 voice lines
+
+@20721 = ~You see a young woman dressed in a tight leather bodice and leggings. She smells faintly of cheap perfume and her face, though pretty, is painted with garish make-up. She smiles coyly as she sees you. "Seeking some company, love?"~ [AM20721V]
+@20722 = ~"Sorry, love, I don't stand here ta answer th' questions a' passersby. Sure ye wouldn't like a lil' company, hmm?"~ [AM20722V]
+@22784 = ~She stares at you silently for a time, then speaks: "I was called that, once, long ago. Who are ye?"~ [AM22784V]
+@22786 = ~"N... Nodd? He's alive? Where? Why didn't he come ta seek me out himself?"~ [AM22786V]
+@22788 = ~"Aye, he was a bit touched, even as a child, when his name was Thodus. Oh, I've missed him so! Ashamed, though? Ha! Me own work's no more proud! Ah, well, at least I'm doin' well fer meself - fer a Hiver, at any rate, eh? I must visit him, soon." She looks at you closely for the first time since you've spoken. "Are ye a friend a' Nodd's, or...?"~ [AM22788V]
+@22792 = ~"Could ye..." She frowns, biting her lip, as if considering something. "Could ye give this to him?" She steps close to you and offers a pouch of what looks to be about one hundred copper commons.~ [AM22792V]
+@22798 = ~She hands you the pouch. "I thank ye. Go speak ta Nodd fer me, an' tell him how I worry about him so!"~ [AM22798V]
+@22800 = ~"I'm sorry, cutter, but could I get ye ta swear it ta me? A lot a' copper, it is... fer me, at least."~ [AM22800V]
+@22805 = ~"Hmm. Well, I thank ye all the same. Please, go speak ta Nodd fer me, an' tell him how I worry about him so!"~ [AM22805V]
+@22807 = ~Amarysse has a hopeful look upon her face. "Did ye speak ta Nodd, yet?"~ [AM22807V]
+@22810 = ~"Please, then, go speak ta Nodd fer me, an' tell him how I worry about him so!"~ [AM22810V]
+@22812 = ~"I hear ye spoke ta Nodd fer me... I thank ye, cutter."~ [AM22812V]
+@22815 = ~"I've many a friend in th' Hive, I do." She winks at you. "Again, I thank ye."~ [AM22815V]
+@22817 = ~You see Amarysse. She hasn't noticed you, yet.~ [AM22817V]
+@22821 = ~Her eyes flare with rage the moment she sees you; she is screaming and upon you, blade in hand, before you can even open your mouth to speak. "Ye bastard! Don't think I haven't heard about me poor brother... I'll kill ye!"~ [AM22821V]
+@22824 = ~Her eyes flare with rage the moment she sees you; she is screaming and upon you, blade in hand, before you can even open your mouth to speak. "Ye thievin' bastard! I've heard about what ye did! Takin' a poor workin' lass' jink an' stealin' from her brother... I'll kill ye!"~ [AM22824V]

@@ -1,0 +1,8 @@
+// Fslave - 6 voice lines
+
+@36001 = ~You see a young woman. She has a scowl on her face and looks upset. She sneers at you as you approach. "An' what might ye be wantin'?"~ [FS36001V]
+@36004 = ~She frowns at you and puts her hands on her hips. "Pike it, berk! Take a long walk down a short road."~ [FS36004V]
+@36009 = ~She bares her teeth at you and makes a rude gesture. "It means get lost, bubber! I gots nothin ta say to ye." She looks at you defiantly.~ [FS36009V]
+@36012 = ~She gives you an evil smile. "An' I've got the answer for ye... Take a short stick an' pike it!" She gives you another rude gesture.~ [FS36012V]
+@36015 = ~She laughs. "Aye, an' I haven't even warmed up to ye yet. Now, stick it where the light o' day ne'er shines!"~ [FS36015V]
+@36017 = ~You see a young woman. She has a scowl on her face and looks upset. She sneers at you as you approach. "Now what ye be wantin'?"~ [FS36017V]

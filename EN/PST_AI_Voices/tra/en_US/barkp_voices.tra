@@ -1,0 +1,4 @@
+// Barkp - 2 voice lines
+
+@50470 = ~This smiling man nods cheerfully at you as you approach. "Welcome to my cafe, good sir. What might I serve you? Some wine, perhaps?"~ [BA50470V]
+@50868 = ~The man gives you a helpless sort of look. "Humblest apologies, sir, but I make it a policy to serve drinks and nothing more. You shall have to look elsewhere for conversation, I'm afraid. Are you certain you wouldn't like a drink? Or some bread and cheese, perhaps?"~ [BA50868V]

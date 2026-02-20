@@ -1,0 +1,7 @@
+// Actorcw - 5 voice lines
+
+@46139 = ~This young actor seems far too involved with giving his performance to pause and speak with you. You notice that, near his feet, is a felt cap containing a small sum of copper. Occasionally, a passerby will drop a coin or three into the cap.~ [AC46139V]
+@46144 = ~Your coin lands in the cap with a soft *clink.* The actor, without stopping his performance, gives you a quick nod of thanks.~ [AC46144V]
+@46148 = ~During a particularly interesting part of the performance, you swipe the dozen or so copper coins out of the actor's hat.~ [AC46148V]
+@46150 = ~You're seen trying to steal the coins, and someone calls for the guard!~ [AC46150V]
+@46152 = ~This young actor seems far too involved with giving his performance to pause and speak with you.~ [AC46152V]

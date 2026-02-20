@@ -1,0 +1,9 @@
+// Deaddab - 7 voice lines
+
+@61682 = ~You see the dead body of a Dabus. The stench of its decay is overpowering and, from the looks of its rigid, unnatural posture, extreme rigor mortis has long since set in.~ [DE61682V]
+@61689 = ~As you touch the corpse, a sudden shock passes through your body, and there is a stirring in the air, like a wind has found its way into the building and is fighting to get free. You feel a strange, wrenching pain in your skull, as if someone is hammering on it, sharply, desperately.~ [DE61689V]
+@61692 = ~As you reach out with your power, there is a faint stirring in the air, and the dabus' body blurs for a moment. You feel a strange, wrenching pain in your skull, as if someone is hammering on it, sharply, desperately.~ [DE61692V]
+@61695 = ~Your vision goes black for a moment, and the hammering pain fades, until it sounds like it is coming from outside your skull - the darkness clears, and you hear the hammering coming from outside the building. The entire building seems hazy somehow, confused, as if you are seeing it through a mist.~ [DE61695V]
+@61698 = ~The hammering dies, and you suddenly see a spectral version of the dabus entering the building. As it does, the windows and the doors become like water, suddenly sealing over the entrance the dabus came through. The dabus turns, pauses, and then begins a slow circuit of the room, examining the walls and hammering on each one once, as if testing it.~ [DE61698V]
+@61701 = ~The dabus completes its circuit of the room, then pauses by the "door" it once entered. It begins hammering, chipping away the stone, but with every blow, the wall repairs itself. The vision fades to black, and the hammering continues, first at a steady pace, then slower, then slower...~ [DE61701V]
+@61705 = ~Your vision clears as the hammering ends, and you are once again standing beside the corpse of the dabus... it looks as if it withered away here, trapped in the building.~ [DE61705V]

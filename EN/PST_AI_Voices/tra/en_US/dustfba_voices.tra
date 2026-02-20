@@ -1,0 +1,6 @@
+// Dustfba - 4 voice lines
+
+@2543 = ~You see a somber, pale-faced woman in black robes. She is staring silently into her drink.~ [DU2543V]
+@2544 = ~You see a somber, pale-faced Dustman in black robes. She is staring silently into her drink.~ [DU2544V]
+@2549 = ~The Dustman looks up. "Yes?"~ [DU2549V]
+@2552 = ~"Not at this time." The Dustman becomes silent and turns back to her drink.~ [DU2552V]

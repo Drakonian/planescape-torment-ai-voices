@@ -1,0 +1,16 @@
+// Mhead - 14 voice lines
+
+@42384 = ~This sturdy steel box has a thick leather handle on the top, but there's no apparent way to open the thing - it appears to be welded shut. There are a number of very narrow slits along one side, though you can't quite see into the box through them. A sickly-sweet, rotting smell wafts out from the slits. As you examine the container more closely, it shifts slightly in your hands. Something's moved inside it! There's a man's voice from within: "Ho, there... is someone there, by chance? My name's Mertwyn... anyone? Hail?"~ [MH42384V]
+@42387 = ~"Thank the powers! Have you seen my body, perchance? It's hard to miss him... stumbles about with a silly wooden head on its shoulders... he must have worn his feet down to stubs looking for me by now!"~ [MH42387V]
+@42390 = ~"My good fortune, then! Could I persuade you to return me to him, good sir?"~ [MH42390V]
+@42394 = ~"How splendid! I thank you kindly then, sir. If you don't mind, now, we'll hold off speaking any further until I'm with my body again."~ [MH42394V]
+@42397 = ~"I'm sure you do, sir, coming across a severed, speaking head locked in an iron case... but it will have to wait. Very tiresome being separated from my body, you see... my humblest apologies."~ [MH42397V]
+@42399 = ~"Eh... my gratitude?"~ [MH42399V]
+@42402 = ~"Well, between the body and myself, I'm certain we could scrounge up something to your liking, sir. Could you return me, first?"~ [MH42402V]
+@42405 = ~"Eh... well, you see, I don't really *have* anything right now. I *am* just a head in a locked iron box, you know."~ [MH42405V]
+@42408 = ~"Wait! Wait, good sir! Look, now; I can get you *something,* I just need to get back to my body, first!"~ [MH42408V]
+@42411 = ~"Oh, dear. Well, that would have been a bit too much to hope for, eh? In any case, it's probably shambling about the Civic Festhall, in the northeastern corner of the Clerk's Ward. Could I, by any chance, persuade you to take me there, good sir?"~ [MH42411V]
+@42415 = ~Mertwyn's boxed head stirs as you lift the box. "Oh, hello again... say, any chance I could get you to return me to my body, now? I assure you, I'd be *most* grateful..."~ [MH42415V]
+@42419 = ~Mertwyn's boxed head stirs as you lift the box. "Are we there yet, good sir? Hmmm... I don't *see* my body..."~ [MH42419V]
+@42422 = ~Mertwyn's voice suddenly echoes from within the steel box. "Oh! Oh! There it is! That's my body! Say there, old chum... over here..."~ [MH42422V]
+@42423 = ~"Oh, come now... that's not very nice, sir. And what use have you for my head, after all?"~ [MH42423V]

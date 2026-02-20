@@ -1,0 +1,7 @@
+// Gamlin - 5 voice lines
+
+@49877 = ~"Hey! What are you doing in my tent?!"~ [GA49877V]
+@49881 = ~"The Lady curse you! What in all the planes do you want now?!"~ [GA49881V]
+@49885 = ~"Yeah, you're a friend of Rauk's and I'm a friend of Rauk's. So what? Doesn't mean I have to talk to you."~ [GA49885V]
+@49887 = ~"You barge into my tent uninvited and all you have to say is 'Greetings'?! On your way, berk!"~ [GA49887V]
+@49889 = ~"Blast! You another 'friend' of Rauk's? Yeah, this is one of the tents he calls home. As you can see, this one is full up. Go to one of his other tents."~ [GA49889V]

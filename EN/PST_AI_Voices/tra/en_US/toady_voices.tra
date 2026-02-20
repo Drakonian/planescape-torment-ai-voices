@@ -1,0 +1,7 @@
+// Toady - 5 voice lines
+
+@32066 = ~The young nobleman sneers as you approach him, but says nothing.~ [TO32066V]
+@32069 = ~He makes a point of ignoring you.~ [TO32069V]
+@32070 = ~The young nobleman avoids making eye contact as you approach him, but snickers into his hand, shaking his head.~ [TO32070V]
+@32071 = ~He rolls his eyes and waves you away, unwilling to acknowledge your greeting with even a single word.~ [TO32071V]
+@32072 = ~The young nobleman nods politely in greetings, but refuses to engage you in conversation.~ [TO32072V]

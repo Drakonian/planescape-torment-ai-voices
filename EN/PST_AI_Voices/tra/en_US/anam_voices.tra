@@ -1,0 +1,11 @@
+// Anam - 9 voice lines
+
+@33042 = ~A ragged, middle-aged Collector approaches as you enter the area. "I..." He quickly looks you over and then sneers. "...don't know you."~ [AN33042V]
+@33043 = ~The Collector continues to glare at you.~ [AN33043V]
+@33045 = ~"What ye're lookin' for is no concern of mine, berk." He spits. "What is concern'n me is that ye're still breathin' in my presence."~ [AN33045V]
+@33046 = ~As you approach the Collector, he gives you a look of disgust. "No more words, cutter. You'll find them hard to barter with in these parts." The Collector draws a knife from his pocket. "I'm afraid yer corpse is yer only hard currency."~ [AN33046V]
+@33047 = ~"The problem as I be seein' it, berk... is that ya continue to breathe in my presence." He spits.~ [AN33047V]
+@33048 = ~As you turn to leave, you notice the Collector drawing a knife from one of his pockets. "Don't know what ya was thinking about by coming down 'ere, but the only place you'll be going is the Mortuary, cutter."~ [AN33048V]
+@33090 = ~Your threat appears to soften his demeanor. "Get out of 'ere, cutter!" He hisses. "And I'd be watchin' ya back if I were ya."~ [AN33090V]
+@33091 = ~The Collector responds to your threat by pulling out a knife from one of his pockets. "I be disagreein' with ya, berk. It's YOU who'll soon be jink in me pockets!"~ [AN33091V]
+@33092 = ~You seem to talk some sense into the Collector, as he turns away from you. "Watch yer back, cutter. Most 'ere will talk to ya with their blade before their bone-box, and if ya stay much longer, I be doin' the same."~ [AN33092V]

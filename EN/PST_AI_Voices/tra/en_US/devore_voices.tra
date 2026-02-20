@@ -1,0 +1,11 @@
+// Devore - 9 voice lines
+
+@48410 = ~You see a short man, his eyes smoldering with repressed resentment. He's barking out orders at his workers, and impatiently turns to you. "What do you want?"~ [DE48410V]
+@48416 = ~"I got nothing for you, friend, nothing. Let me just run this operation in peace, all right? Something happens, you just come on back here and we'll take care of you, but for right now, we shouldn't be seen together."~ [DE48416V]
+@48418 = ~"What, you again? What do you want?"~ [DE48418V]
+@48424 = ~"I'm Devore. This is my warehouse. These are my employees. This is my time that you're wasting."~ [DE48424V]
+@48427 = ~He sighs with exasperation. "It's a warehouse. We store things - weapons, gold, alcohol, fabric, food - just about anything a body needs. You have heard of warehouses, right?"~ [DE48427V]
+@48430 = ~"It's a town where people try to make a living. We're all getting by doing what we can, and sometimes we're interrupted by adventurer types who seem to think that all we do all day is wait around for them to ask questions."~ [DE48430V]
+@48433 = ~"Grimscalp? You mean he didn't die? The last I saw him, he was dragging himself toward... oh, I get it. He sent you to intimidate me into giving up his share of the loot. Or to ask nicely for it... or is there something going on with the Anarchists in Sigil? He always played a deep game. It was only chance that we... I mean, THEY, heh heh heh... managed to stick a few knives in him. I'll go get his loot. I'll be right back."~ [DE48433V]
+@48435 = ~He sighs. "What?"~ [DE48435V]
+@48440 = ~He returns with a sack of coins and pair of brutal-looking gauntlets. He looks around nervously, and says, "Here. Take these. Now go on, get out of here."~ [DE48440V]

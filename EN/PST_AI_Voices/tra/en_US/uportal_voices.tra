@@ -1,0 +1,4 @@
+// UPORTAL - 2 voice lines
+
+@48030 = ~You unfold the shimmering metal. It seems strangely quiescent; you get the feeling that it's lying dormant until the portal key is near it.~ [UP48030V]
+@48407 = ~You unfold the shimmering metal and immediately it begins crackling with life; it begins forming itself into a metallic circle, hovering in the air. There's something in your possession that has activated this portal!  You get the feeling that you probably ought to make sure you have everything you need - you might not be back in Sigil for a *long* time.~ [UP48407V]

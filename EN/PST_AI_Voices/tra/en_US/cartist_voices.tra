@@ -1,0 +1,5 @@
+// Cartist - 3 voice lines
+
+@51717 = ~This attractive, pale-faced girl smiles at you, motioning toward a book full of charcoal sketches. "Greetings and well met, good sir. My name is Ullana; I am an artist by trade, and would gladly make a fine sketch of you for but five copper commons. I can make a serious sketch if you like, or a caricature."~ [CA51717V]
+@51719 = ~"Well met once more, good sir. Here to have a portrait drawn? I assure you that you'll be pleased with the outcome..."~ [CA51719V]
+@51721 = ~She smiles, but somewhat sadly. "Farewell, then. Please do not hesitate to return should you change your mind."~ [CA51721V]

@@ -1,0 +1,15 @@
+// Cgoon - 13 voice lines
+
+@53695 = ~"Look, berk, you better get out of here... if you know what's good for you."~ [CG53695V]
+@53697 = ~"Maybe you don't hear too well. Get out of here. I'm not telling you again."~ [CG53697V]
+@53699 = ~"You had your chance, berk. You should have left while you could." The thug attacks!~ [CG53699V]
+@53701 = ~"No one wants you here, berk. You better leave before you get hurt."~ [CG53701V]
+@53703 = ~"Last chance to leave on your own, stranger. You head out that door or there'll be a world of trouble."~ [CG53703V]
+@53705 = ~"You gotta do it the hard way, don't you, berk? You should've left while you could." There is a flash of steel!~ [CG53705V]
+@53780 = ~"Berk, you just walked through the wrong door. That'll be the last mistake you ever make."~ [CG53780V]
+@66759 = ~"You want to stand here jawin', or you want to save us? Get a move on!"~ [CG66759V]
+@66761 = ~This grizzled man gives you a look of contempt. "Whaddye want, berk? Can't ye see we're busy cleanin' out the trash that got us into Carceri? We get rid o' this sod, we're golden. We're back in the Outlands, no problem."~ [CG66761V]
+@66776 = ~"But he... he... Crap. All right. You got it." He raises his voice so the crowd can hear him. "Let him go! We got a whole city to take care of!"~ [CG66776V]
+@66778 = ~"Shut yer hole, berk. We got business to take care of!" He turns to his helpers. "Nail him!"~ [CG66778V]
+@66781 = ~This person's eyes are glazed with bloodlust, voice ragged from screaming hatred with the mouth of a mob. You find yourself thoroughly ignored.~ [CG66781V]
+@66782 = ~"Thanks, friend. We've got a city to save..."~ [CG66782V]

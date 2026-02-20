@@ -1,0 +1,10 @@
+// Hivvag - 8 voice lines
+
+@48800 = ~You see a man, who seems to be looking over the inside of the structure.~ [HI48800V]
+@48803 = ~"You again... didn't I say this place is mine? Get lost before I have to get rough with you!"~ [HI48803V]
+@48806 = ~"I found this place first. You better not try anything if you know what's good for you."~ [HI48806V]
+@48809 = ~"You asked for it!"~ [HI48809V]
+@48812 = ~You see a frail looking man, cowering in the corner.~ [HI48812V]
+@48968 = ~"You're not back to hurt me, are you? Please just leave me alone."~ [HI48968V]
+@48972 = ~"Please don't hurt me. I'm not doing anything."~ [HI48972V]
+@48976 = ~"Please... please don't hurt me."~ [HI48976V]

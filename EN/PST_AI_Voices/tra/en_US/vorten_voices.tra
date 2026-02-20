@@ -1,0 +1,8 @@
+// Vorten - 6 voice lines
+
+@42519 = ~You see a Harmonium officer. He gives you a bored look as you approach.~ [VO42519V]
+@42520 = ~He gives you a bored look. "Greetings, citizen. Measure Three Vorten at your service."~ [VO42520V]
+@44835 = ~He sighs. "I don't mean to be rude, but I am on duty and have no time for questions." He pauses. "If you would like information go talk to Ebb Creakknees."~ [VO44835V]
+@44841 = ~"He is an old friend of mine. I think he considers himself to be a tout now, so he can give you the chant concerning just about anything."~ [VO44841V]
+@44844 = ~He thinks for a moment. "Last I heard he pretty much set himself up in the Smoldering Corpse bar. You can find it somewhere down in the Hive."~ [VO44844V]
+@44846 = ~You see Measure Three Vorten, the Harmonium officer. He gives you a slight nod. "Hello again."~ [VO44846V]

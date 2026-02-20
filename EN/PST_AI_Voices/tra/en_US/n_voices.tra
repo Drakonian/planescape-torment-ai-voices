@@ -1,0 +1,8 @@
+// N1201 - 6 voice lines
+
+@44993 = ~This foul-smelling note has a strange looking diagram inscribed beneath the writing. It looks as if it's instructing you to fold the corners of the note so their points touch the center. There is a series of strange marks on each corner - one mark on the upper right, two marks on the lower right, three marks on the lower left, and no marks on the upper left.~ [N44993V]
+@44999 = ~You fold the corner inwards so its point touches the center.~ [N44999V]
+@45015 = ~As you fold the upper left inward to the center, you watch as the upper right unfolds by itself, resuming its normal position.~ [N45015V]
+@45019 = ~As you fold the lower left corner inwards, it stays for a moment, then the other two corners unfold outwards. Nothing happens.~ [N45019V]
+@45022 = ~As you fold the upper right corner back to the center, the lower left corner mirrors the action, until all the corners touch in the center. You watch for a moment, and the corners of the paper raise up, turning the note into a small four-sided paper pyramid.~ [N45022V]
+@45024 = ~You peel back the sides of the pyramid, and the paper disintegrates to dust. Inside is a small triangle-shaped earring. It catches the light and gleams brightly.~ [N45024V]

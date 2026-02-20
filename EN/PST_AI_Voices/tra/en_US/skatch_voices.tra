@@ -1,0 +1,9 @@
+// Skatch - 7 voice lines
+
+@50896 = ~You see a Harmonium officer, dressed in his ceremonial armor. He seems to be in charge of the workforce of Harmonium slavers. He seems like an especially vicious and haughty member of the breed. "What do you want?"~ [SK50896V]
+@50901 = ~He smirks at you. "Are you now? What'll you do if I kill her?" He gestures to his men. "Kill her!" He draws his blade and attacks you!~ [SK50901V]
+@50903 = ~"Why, my men and I are gathering recruits to teach them about right and wrong. As you can see, they're not always willing... but we'll make them see the light eventually." He eyes you. "You'll make a good recruit, I imagine."~ [SK50903V]
+@50906 = ~"That's too bad." He gestures to his men. "Ignore the girl. Take him."~ [SK50906V]
+@50908 = ~"Gladly. We'll take you to Arcadia and show you the truth." He gestures to his men. "Take him."~ [SK50908V]
+@50910 = ~"I'm Measure Two Skatch, of the Harmonium." He bows. "My men and I are here recruiting. Are you interested in learning more about the Harmonium's ways?"~ [SK50910V]
+@50914 = ~"You're not very smart, are you? No. There's no chance. There is our way, and there is the wrong way. Those who are wrong must be... punished." He points to you and calls to his men. "Take him!"~ [SK50914V]

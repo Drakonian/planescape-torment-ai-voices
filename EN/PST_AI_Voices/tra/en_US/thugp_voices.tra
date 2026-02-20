@@ -1,0 +1,16 @@
+// Thugp - 14 voice lines
+
+@25998 = ~This small, wiry thug is swathed in rags, dyed red and black. He glances at you as you approach.~ [TH25998V]
+@25999 = ~The man does not speak; he only glares at you. It doesn't look like he is the leader of this small band.~ [TH25999V]
+@26003 = ~This heavy-set thug is swathed in rags, dyed red and black. He looks like he is made almost purely of muscle. He glowers at you as you approach.~ [TH26003V]
+@26878 = ~"An' how ken I help you then, guvner?" This man's face breaks into a sneer. "Looks t'me ye needs a healer."~ [TH26878V]
+@26883 = ~"Bar that! No time for askin' n' answerin', guvner." He spits at your feet. "Now PIKE OFF, ye clueless sod!"~ [TH26883V]
+@26887 = ~"I'd be watchin' where ye be lettin' those threats fly, guvner. Ye let another one slip yer tongue, and I'll give ye a second smile, jig?"~ [TH26887V]
+@26890 = ~"Some sod wit lines scrawled all over 'is face? Claimed he coulda put us all in the dead-book, yet lets us bob 'im blind?" The man gives a slow, toothless smile. "Never even heard of such a sod, I haven't."~ [TH26890V]
+@26895 = ~The man frowns. "No, I'm attached to it, I am. Can't let it go... 'cept for a hefty bit a coin. Say, fifteen copper?"~ [TH26895V]
+@26901 = ~"Right then, it's a deal. Here you go..."~ [TH26901V]
+@26903 = ~"Eh, well... all right. It's an ugly thing anyways. Here you go..."~ [TH26903V]
+@26905 = ~"Eh?" The man's sneer fades. "What're ye on about? Wot brothers? The sod was alone, he was."~ [TH26905V]
+@26908 = ~The man's eyes widen. "Eh... now... we was just keepin' the relic for 'im." He reaches into the fold of his robe and pulls forth the necklace, which he hands carefully to you. "Here it is, no harm done, eh?"~ [TH26908V]
+@26913 = ~"Curses?!" The man makes a semi-circle over his heart. "Eh, well, now, wouldn't want any o' that..." He reaches into a purse at his belt, and hands over several copper coins. "Take it wit me blessing, guvner. Tell 'im no harm was meant."~ [TH26913V]
+@26915 = ~This heavy-set thug is swathed in rags, dyed red and black. He looks like he is made almost purely of muscle. He glowers at you as you approach and bites his thumb. "Pike off, guvner. I got nothing more to say to ye!"~ [TH26915V]

@@ -1,0 +1,6 @@
+// Cannon - 4 voice lines
+
+@66183 = ~This enormous device thrums with power. It looks like a gigantic flower, created, not grown, and adorned with metal bulbs and flanges. A bewildering array of knobs, gauges, and vents baffle your eye.~ [CA66183V]
+@66185 = ~The firing mechanism feels dangerously unsteady. With a quick yank, you tear it loose from its moorings. The change in the vibration cycle of the roaring machine is subtle, but you can hear it starting to vary from its previous stable hum. You had better leave.~ [CA66185V]
+@66186 = ~You don't seem to have any success in changing anything right now.~ [CA66186V]
+@66187 = ~The powerful hum of the machine is rapidly building toward a crescendo. You had best leave before the explosion of the machine tears you apart.~ [CA66187V]

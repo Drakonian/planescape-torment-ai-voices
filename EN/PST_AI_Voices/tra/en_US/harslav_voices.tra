@@ -1,0 +1,8 @@
+// Harslav - 6 voice lines
+
+@50939 = ~You see a heavyset Harmonium guard. He looks grizzled, grim, and partly drunk. He keeps an eye on the slaves they've been rounding up, and talks to you out of the corner of his mouth. "Whaddya want?"~ [HA50939V]
+@50945 = ~"Y'back again?"~ [HA50945V]
+@50951 = ~"You want to buy her back? Talk to Skatch about it, then... he's the one in charge."~ [HA50951V]
+@50956 = ~He grunts. "What's it look like? Harmonium 'recruiters'."~ [HA50956V]
+@50961 = ~"What's it look like? Skatch calls it recruiting. I call it a slave run. Do I care? Nuh. It's good money." He looks at you carefully. "You want something?"~ [HA50961V]
+@50966 = ~"Heh. Why tell me? Now I got to kill you." He draws his weapon and attacks!~ [HA50966V]

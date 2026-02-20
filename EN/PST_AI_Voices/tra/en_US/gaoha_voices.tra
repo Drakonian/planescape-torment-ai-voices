@@ -1,0 +1,15 @@
+// Gaoha - 13 voice lines
+
+@9356 = ~You see a thin, yellow-skinned humanoid covered with a variety of dazzling tattoos. His eyebrows have been accented with black charcoal lines, and his teeth are filed to points. He sees you and waves you over, rattling his dice in his hand.~ [GA9356V]
+@34025 = ~He displays a feral, shark-toothed grin; his eyes are like shiny black orbs. His voice is low and raspy: "Gaoha greets you, as well... you have come to play a game, yes?"~ [GA34025V]
+@34029 = ~He is about to speak when his eyes - shiny and black, like orbs of jet - fall upon Dak'kon. The two of them stare silently at one another for a moment before the tattooed githzerai's gaze returns to you. His voice is low and raspy: "Gaoha greets you. You have... come to play a game? Yes?"~ [GA34029V]
+@34033 = ~Gaoha's smiles fades in an instant; he shakes his head. "No interest in questions, have I. Only the game... the turning of the die, the glint of coin won or lost, yes?" He shakes the bone dice in his palm. "You... have no interest in these things?"~ [GA34033V]
+@34037 = ~Gaoha reaches into his tunic and pulls out a coin. "This coin? Your coin." He places it at your feet, and pulls out another. "This coin? Gaoha's." He places it at his own feet, then holds up two dice between his thumb and index finger. "The dice... we both roll one, yes?"~ [GA34037V]
+@34039 = ~"You roll higher, both coins..." He snatches the coins up from the ground and proffers them to you. "...yours. Gaoha roll higher?" He quickly tucks the coppers back into his tunic. "Mine. Neither rolls higher? The coin stays for another roll. So: How much coin will lie at your feet?"~ [GA34039V]
+@60416 = ~You both roll the dice until Gaoha rolls higher; he snatches up your coins, tucking them into his tunic. He seems to hesitate for a moment, then speaks. "Again, yes?"~ [GA60416V]
+@60420 = ~Gaoha regards you closely for a moment, then nods. "Never do I indulge in Hashma's folly - never do I *cheat,* human. But I see fortune, read it, *know* it in the face of a man. However, you... in you I see nothing. I *know* nothing. You... have no luck? No fortune, neither good nor ill? Or you make your own, perhaps. I do not know." He places his dice back into his tunic. "We might play later, perhaps, but no more this moment."~ [GA60420V]
+@60422 = ~"And how much coin will lie at your feet?"~ [GA60422V]
+@60436 = ~Gaoha flashes you his disturbing, sharp-toothed grin and rattles a pair of bone dice in hands. "You have returned to play a game, yes?"~ [GA60436V]
+@60441 = ~You both roll the dice until Gaoha rolls higher; he snatches up your coins, frowning at them for a moment before hiding them away in his tunic. "It is enough, for now. But perhaps we shall play again later, you and I."~ [GA60441V]
+@60444 = ~You both roll the dice until you roll higher; you pick up the coins and put them away. Gaoha nods, frowning. "It is enough, for now. But perhaps we shall play again later, you and I."~ [GA60444V]
+@60447 = ~Gaoha flashes you his disturbing, sharp-toothed grin. "Eager to play you are, yes? But you return too soon. Return later, and we might play again."~ [GA60447V]

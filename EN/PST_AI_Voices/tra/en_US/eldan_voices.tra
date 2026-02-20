@@ -1,0 +1,12 @@
+// Eldan - 10 voice lines
+
+@57545 = ~You see an older man with thinning white hair. His clothes are not new, but they are not the rags worn by the other prisoners. You notice books and scrolls surround him. He arches his eyebrow at your approach.~ [EL57545V]
+@57548 = ~He looks you up and down then smiles. "Well... what do we have here? You look to be a mess, young man..." He continues to examine you then shrugs. "What is it that you want of me?"~ [EL57548V]
+@57551 = ~"I may be able to help you. Ask your questions." He smiles.~ [EL57551V]
+@57556 = ~"I am Eldan. A man of little importance who has fallen on some bad times..."~ [EL57556V]
+@57560 = ~He frowns. "My employer no longer had need of my services. Rather than terminate my employment, and my life, he saw fit to have me interred here."~ [EL57560V]
+@57564 = ~"He was involved in questionable business practices and I was his record keeper. He put me here to keep his secrets safe... and to keep me from those who would learn his secrets." He sighs. "I suppose it is preferable to death, but not by much."~ [EL57564V]
+@57567 = ~He shrugs. "I know nothing other than the fact that it's a prison. I have been in this cell since my arrival and see little need to explore what is obviously a dangerous place."~ [EL57567V]
+@57571 = ~"No..." He looks away.~ [EL57571V]
+@57574 = ~He frowns and gives you a questioning look. "A deva? I cannot imagine that... why would a deva be down here?" He shrugs.~ [EL57574V]
+@57575 = ~You see Eldan. He smiles at your approach. "Again you grace me with your presence. Why?"~ [EL57575V]

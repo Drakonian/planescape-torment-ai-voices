@@ -1,0 +1,7 @@
+// Gort - 5 voice lines
+
+@51179 = ~This huge creature stands over nine feet tall. Rippling muscles support its massive frame. It seems to be engaged in conversation with two similar creatures next to it.~ [GO51179V]
+@51182 = ~He turns at your greeting and looks down and at you. A look of confusion crosses his features. "Gort greet small one."~ [GO51182V]
+@51185 = ~He gives you an apologetic look and shakes his head. "Gort not speaking well your talk. Sorry, you ask Thorp." He gestures to one of the creatures next to him.~ [GO51185V]
+@51187 = ~You see Gort. He looks down at you and smiles. "Gort greet you times more once."~ [GO51187V]
+@51190 = ~You see Gort. He bows low to you. "Gort greet you, friend. Gort thank you saving of life that his." He turns away.~ [GO51190V]

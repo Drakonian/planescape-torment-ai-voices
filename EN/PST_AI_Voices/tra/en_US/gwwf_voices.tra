@@ -1,0 +1,6 @@
+// Gwwf - 4 voice lines
+
+@61250 = ~You see a busy worker. She does not acknowledge your approach.~ [GW61250V]
+@61253 = ~"Sorry, cutter. I'm really busy. Don't bother me." She turns away from you.~ [GW61253V]
+@61255 = ~You see a busy worker. "I don't have time to talk to you, cutter. Go to the supervisor if you need something." She turns away.~ [GW61255V]
+@61257 = ~You see a busy worker. She frowns at your approach. "Pike it, berk. I don't have time for senseless chatter." She ignores you.~ [GW61257V]

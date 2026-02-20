@@ -1,0 +1,8 @@
+// Hezobol - 6 voice lines
+
+@50917 = ~You see a slim man clad in flowing robes. His face is dark with anger, and he shouts at his subordinates as they move with brisk efficiency. "Hurry it up, scumbags! We only have so much time to make a sacrifice!" He doesn't appear to notice you.~ [HE50917V]
+@50921 = ~He looks back at you with irritation sketched across his features. "I'm capitalizing on the chaos, berk. Now's the best time to take slaves, while everyone's worried about putting the town back into order. If you'll excuse me, I've got business to attend to." He turns back to his men.~ [HE50921V]
+@50927 = ~He sneers at you. "I'd like to see you stop me. Men! Leave off the slaves and kill this intruder!"~ [HE50927V]
+@50930 = ~He calls out to his men. "Stop what you're doing!" He looks at you thoughtfully. "So you're saying we won't need a sacrifice to the gehreleths?"~ [HE50930V]
+@50933 = ~He curses. "Just my luck. Had quite a haul, too. Okay, boys, set 'em free! We got us a town to save!" He gives you an unreadable look and leads his group away. "Thanks for the tip, stranger."~ [HE50933V]
+@50935 = ~The slave leader appears to be running his operation smoothly, though he keeps watching for impending gehreleth attacks. "What do you want, berk?"~ [HE50935V]

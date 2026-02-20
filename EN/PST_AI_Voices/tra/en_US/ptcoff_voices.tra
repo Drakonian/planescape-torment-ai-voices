@@ -1,0 +1,8 @@
+// Ptcoff - 6 voice lines
+
+@51470 = ~You strain trying to raise the sarcophagus lid, but your efforts are in vain. It appears to be locked firmly in place.~ [PT51470V]
+@51473 = ~The sarcophagus lid moves with ease. The locking mechanism has been undone.~ [PT51473V]
+@53785 = ~You open the sarcophagus... only to discover a single key lying within. There is no body, and more importantly, no skull.~ [PT53785V]
+@53787 = ~You stand in silence for a moment as you gaze at the contents of the sarcophagus.~ [PT53787V]
+@53789 = ~You open the sarcophagus... only to discover a single key lying within. There is no body, nothing of any worth.~ [PT53789V]
+@53791 = ~The sarcophagus is empty. Nothing has changed since you last checked it.~ [PT53791V]

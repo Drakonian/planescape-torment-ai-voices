@@ -1,0 +1,16 @@
+// Cstcrog - 14 voice lines
+
+@10037 = ~You see a roguish-looking man. As you watch him, you begin to think he could be keeping an eye on a nearby building.~ [CS10037V]
+@10040 = ~He seems friendly enough as he returns your greeting. "Good day to you as well." He turns and starts to walk away from you.~ [CS10040V]
+@10043 = ~He stops and turns to you with a friendly smile. "Certainly, how can I help you?" You notice his arms hang a bit unnaturally at his side. To your practiced eye, it looks like he's ready to draw a concealed weapon.~ [CS10043V]
+@10047 = ~He looks at you with some surprise. "Why, no, as a matter of fact I wasn't. Why? Is there something of interest going on there?" He turns and begins to examine the building you indicated.~ [CS10047V]
+@10052 = ~He looks at you and seems to measure your worth. He then makes a deft gesture with his hands and looks at you innocently. Glancing down you notice the glint of coins in his sleeve. "I assure you that you are mistaken, friend. I'm just enjoying a walk on this fine day."~ [CS10052V]
+@10055 = ~He steps forward and give you a friendly pat on the back. As he does, you feel the weight of your purse increase. "Then I bid you farewell, friend. Until next we meet."~ [CS10055V]
+@10057 = ~He frowns at you. "Then I should... double my efforts to convince you otherwise. Know, however, that I shall go no further in my efforts to sway you." Another deft move and you see the glint of coin in both his sleeves.~ [CS10057V]
+@10060 = ~He steps forward and gives you a friendly pat on the back. As he does, you feel the weight of your purse increase. "Then I bid you farewell, friend. Until next we meet."~ [CS10060V]
+@10062 = ~He frowns at you and makes a gesture with both arms. The glint of gold is replaced by the glint of steel. "I'm sorry we couldn't come to terms."~ [CS10062V]
+@10064 = ~He looks at you in surprise. "Really... I find that quite remarkable. This isn't the type of place one would expect to find a deva. However, if that were the case you should inquire at the Traitor's Gate Inn. I understand they broker information such as you seek."~ [CS10064V]
+@10067 = ~"Sorry friend, I haven't been there myself so I don't rightly know. But you're in the right area. Just look around."~ [CS10067V]
+@10069 = ~The rogue looks a little disturbed at seeing you again. "Well, if it isn't my old friend. Come to pay me a visit again? I appreciate the courtesy but I am trying to work here, you know."~ [CS10069V]
+@10071 = ~He frowns at you and takes on a very serious tone. "Listen, friend. You found me out and, as one professional to another, I paid you to let me be. Let's leave it at that and stay friends."~ [CS10071V]
+@10076 = ~"I'm sorry we couldn't come to terms."~ [CS10076V]

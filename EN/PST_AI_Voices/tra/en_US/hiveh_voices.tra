@@ -1,0 +1,9 @@
+// Hiveh - 7 voice lines
+
+@1542 = ~You see a man in old and tattered clothes. As you approach him, he makes a detour to avoid you and keeps walking.~ [HI1542V]
+@1543 = ~The man ignores you, begins to walk faster.~ [HI1543V]
+@1544 = ~He turns, glancing briefly to the right and left of you as if looking to see if you have any friends with you. He draws a dagger. "Ye'd best leave me be, or you'll be wearing this steel 'tween yer ribs!"~ [HI1544V]
+@1545 = ~You see a man in old and tattered clothes. As you approach him, he stops in his tracks and stares at you.~ [HI1545V]
+@1546 = ~"Have a *problem,* berk...? Or are ye *lookin'* fer one?" Spits at your feet. "Get on wit' ye 'fore ye add to yer scars."~ [HI1546V]
+@1547 = ~Scoffs. "I'm sure ye do, and I have no answers for the likes of you. Piss off!"~ [HI1547V]
+@1557 = ~He scoffs. "I'm sure ye do, and I have no answers for the likes of you. Piss off!"~ [HI1557V]

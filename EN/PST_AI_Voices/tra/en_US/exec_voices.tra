@@ -1,0 +1,6 @@
+// Exec - 4 voice lines
+
+@57394 = ~This hulking man appears wholly apathetic to the situation around him. He yawns as you approach, picking at his dirt - or blood - caked fingernails.~ [EX57394V]
+@57401 = ~He cuts you off before you've even really begun. "Talk to the judge, cutter. Talk to the judge." He then goes back to examining his filthy nails.~ [EX57401V]
+@57404 = ~He looks up from his nails for a moment. "If the judge says to kill this man, I'm killin' this man... whether I got to go through you to do it is up to *you,* cutter. I'd go talk to the judge."~ [EX57404V]
+@57406 = ~The executioner, hands spattered with fresh gore, gives you a bored glance. "Things're rollin' right along now, cutter. Nothin' you say now's gonna make much of a difference. Just move on."~ [EX57406V]

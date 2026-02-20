@@ -1,0 +1,14 @@
+// Dorfin - 12 voice lines
+
+@57994 = ~You see a muscular young man wearing dirty work clothes. He seems to be checking the contents of several crates and comparing them with a list.~ [DO57994V]
+@58000 = ~He pauses for a moment before turning to face you. "Yes? May I help you?"~ [DO58000V]
+@58009 = ~He glances about quickly. "All right..."~ [DO58009V]
+@58019 = ~"I'm Dorfin, cutter. I'm one of the warehousemen here." He gives you a friendly smile.~ [DO58019V]
+@58024 = ~"Inventory." He frowns. "For the third time this month, I might add."~ [DO58024V]
+@58030 = ~He sighs. "No, the boss is a slave driver. He works us hard and rarely lets up on us." He shrugs. "It's a living."~ [DO58030V]
+@58035 = ~He leans in close to whisper to you. "We're allowed one day a week off... with pay no less. We don't complain because of that."~ [DO58035V]
+@58042 = ~He shrugs. "I have no idea and I don't really care. It's a break from the grind."~ [DO58042V]
+@58045 = ~He gives you a confused look then shrugs. "It's just a warehouse. We store the usual stuff. You know, tools, weapons, foodstuffs, whatever..."~ [DO58045V]
+@58049 = ~"Really?" He looks surprised. "I can't even imagine that... I mean, why would a deva come here?" He pauses for a moment then barks out a laugh. "Ha! Unless it was to rain *holy justice* down upon us."~ [DO58049V]
+@58055 = ~"The citizens of Curst are not known for their kindness and generosity. A deva actually is too good for this place. There is no reason for one to be here unless, of course, he or she was sent by some power. That would only be done in the name of some sort of *higher* justice."~ [DO58055V]
+@58059 = ~You see Dorfin, the warehouseman. He nods at you. "Hello again, cutter."~ [DO58059V]

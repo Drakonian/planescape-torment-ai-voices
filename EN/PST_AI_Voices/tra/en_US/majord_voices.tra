@@ -1,0 +1,6 @@
+// Majord - 4 voice lines
+
+@44696 = ~You see a cube with two arms, two legs, and two small wings sprouting from its sides. On the front of the cube is an animated face. As you approach, the creature focuses its eyes upon you.~ [MA44696V]
+@44699 = ~The creature focuses emotionless eyes on you. "Greetings, adventurer. Welcome to Rubikon, the dungeon construct. Thank you for choosing Rubikon for your dungeoning experience. You may access Rubikon through this door."~ [MA44699V]
+@44703 = ~The creature stares at you without answering.~ [MA44703V]
+@44706 = ~The creature blinks at you but gives no indication it has heard your question.~ [MA44706V]

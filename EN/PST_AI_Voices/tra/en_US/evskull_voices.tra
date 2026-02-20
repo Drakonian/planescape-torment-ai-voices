@@ -1,0 +1,13 @@
+// Evskull - 11 voice lines
+
+@31692 = ~"Evil? Bah! I'm merely a pragmatist."~ [EV31692V]
+@31693 = ~"Is it not a fine solution? It always worked for me. Poison and magic work equally as well, I've found."~ [EV31693V]
+@31694 = ~This skull speaks with a deep voice and a jocular tone. "Have you come to learn of truth? I have truth a-plenty."~ [EV31694V]
+@31700 = ~"Come for a little more tutoring in the true ways of the world, eh? I'm your man!"~ [EV31700V]
+@31706 = ~"I? I am Stern, one of the great practitioners of personal peace through intensive redirection of hostilities."~ [EV31706V]
+@31707 = ~"Funny you should mention that. I had a black book given to me in order that I might puzzle out its secrets. I unlocked its powers for a terrible price - one I would gladly pay again! - and sharpened my edge considerably. Little did I realize that the book would betray me to another - a mewling rat-thing that overwhelmed me in a wave of rodents and tore the flesh from my living bones. The rat went through a series of disciples, each of them betrayed by the book, until it wound up in the possession of the rat-man Mantuok. If you find this book, accept its powers and be rid of it before you suffer the same fate."~ [EV31707V]
+@31713 = ~"What can I tell you of Lothar? I will tell you nothing. Even this bare existence is better than the oblivion he promises should I speak his secrets."~ [EV31713V]
+@31719 = ~"Of the skulls that will speak to you, I can offer no good words. Their experiences have not been shared with me; indeed, we have spoken precious little until your arrival. Perhaps," it says, a smirk in its voice, "there's something special about your very presence."~ [EV31719V]
+@31724 = ~"However you choose to define it, Grimscalp." Stern turns his attention back to you. "I was the best of the lot, so it's said."~ [EV31724V]
+@31727 = ~You get the distinct impression Stern's skull is sneering at you. "And gain merely your friendship? Bah. There is nothing you can offer me, no service nor item, that will impel me to betray Lothar to you. Begone!"~ [EV31727V]
+@31730 = ~"I will not." The skull turns its attention inward; you can feel the force of its personality vanish.~ [EV31730V]

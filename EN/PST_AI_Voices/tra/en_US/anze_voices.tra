@@ -1,0 +1,16 @@
+// Anze - 14 voice lines
+
+@33883 = ~You see an older, stern looking man. His face is a mixture of wrinkles and frown lines.~ [AN33883V]
+@33886 = ~He gives you a quick, stiff bow. "Aye, greetin' to ye as well. Anze is me name. Whatcha' be needin?"~ [AN33886V]
+@33889 = ~He gives you a toothless grin. "I reckon I gots the time ta give ye the chant. Whatcha be needin' ta know?"~ [AN33889V]
+@33896 = ~"Can't say I ever heard of Lothar..." He squints his eyes as he thinks. "But this *bones* fella, yeah, I heard of 'em. Chant is ya don't mess with 'em. Po'erful cutter, consorts with the dead an' such."~ [AN33896V]
+@33900 = ~He shrugs. "I dunno. Cutter like that can set his kip where 'e pleases. No berks gonna deny 'em, that's fer certain."~ [AN33900V]
+@33904 = ~He barks out a short laugh. "Ye heard it all, cutter. Don't know anythin' else 'bout 'em."~ [AN33904V]
+@33908 = ~He tries to look concerned but fails miserably. "Sorry ta hear that, cutter. If'n ye think it were stolen, ye should tell the Harmonium."~ [AN33908V]
+@33912 = ~He smiles. "The law, cutter. Harmonium bashers are the law 'ere in Sigil. If'n yer property is missin' then ye should tell 'em."~ [AN33912V]
+@33915 = ~He starts to say something, then stops to think. After a moment he chuckles. "Nay, cutter. I'd be guessin' not. Ne'er mind."~ [AN33915V]
+@33917 = ~"Ye can talk to Aalek next door. He may have what ye need." He gestures at the counter to his left.~ [AN33917V]
+@33920 = ~He glances at the furnace and then lowers his voice. "The furnace does nothin' other than teach me lazy boy spons'bility. That boy is always yappin' and talkin' and such. Reckon's 'emself a scholar an' don't know the value o' real work. If'n ye have serious questions... well, he may be better ta ask than me."~ [AN33920V]
+@33923 = ~Null node~ [AN33923V]
+@34244 = ~Anze gives you his usual toothless grin. "Welcome back, cutter. Whatcha be needin' this day?"~ [AN34244V]
+@34248 = ~"I be mournin' for the loss of me boy, Lazlo. I'll not open shop fer... I dunno how long..."~ [AN34248V]

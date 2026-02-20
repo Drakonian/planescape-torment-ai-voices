@@ -1,0 +1,16 @@
+// Copper - 14 voice lines
+
+@2474 = ~Before you is a tall, silent figure. He could easily pass for a statue - although the deep furrows in his face and brow make you wonder if the sculptor was a little too eager in defining the face with the chisel. He looks well over fifty years old... but exactly how much over fifty, it's hard to tell. As he slowly turns to look at you, you catch the dull sheen of copper in his eyes.~ [CO2474V]
+@2477 = ~Old Copper-Eyes stares at you. His eyes are difficult to make out past the black well of his eye sockets, but they look to have a coppery sheen about them.~ [CO2477V]
+@2481 = ~Copper-Eyes makes the barest of nods, and slowly reaches into his Dustman robes with both hands. With his left hand, he pulls forth a small bag of human skin. With his right hand, he draws forth a piece of parchment folded around a finger bone pen. The bag and the parchment are slowly laid on the table in front of you.~ [CO2481V]
+@2487 = ~It's a contract that entitles the Dustmen to take possession of the signer's body after he has passed beyond the Eternal Boundary. The signer, in exchange, receives a monetary sum from the Dustmen, agreed upon at the time of signing. You assume the sum in the bag is the amount you will receive for signing the contract.~ [CO2487V]
+@2496 = ~Copper-Eyes makes no indication that he has noticed the switch. As you finish signing, Copper-Eyes nods at the bag to his left. As you reach for the bag and count out the hundred coppers, the contract parchment vanishes from the table and into the folds of his robe.~ [CO2496V]
+@2497 = ~Copper-Eyes makes no indication that he has noticed the switch. As you finish signing, Copper-Eyes nods at the bag to his left. He leaves the contract parchment on the table, as if asking you to examine it again... and you notice, to your horror, that your sleight-of-hand was unsuccessful. The Dustmen now own your body after death.~ [CO2497V]
+@2502 = ~The parchment vanishes into the folds of Copper-Eyes' robe. He nods at the bag.~ [CO2502V]
+@2505 = ~Copper-Eyes does not react, but suddenly the room goes black...~ [CO2505V]
+@2507 = ~The bag is full of coppers. There looks to be about a hundred in there.~ [CO2507V]
+@2513 = ~As you reach for the bag, it vanishes from the table. When you blink again, it has returned. Copper-Eyes is still staring at you.~ [CO2513V]
+@2519 = ~Copper-Eyes says nothing.~ [CO2519V]
+@2520 = ~As you finish signing, Copper-Eyes nods at the bag to his left. As he does, the contract parchment vanishes from the table and into the folds of his robe.~ [CO2520V]
+@2524 = ~Copper-Eyes says nothing, simply reaches for the bag and the parchment and draws them into the folds of his robe.~ [CO2524V]
+@12005 = ~Copper-Eyes says nothing.~ [CO12005V]

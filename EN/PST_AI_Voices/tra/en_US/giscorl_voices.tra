@@ -1,0 +1,15 @@
+// Giscorl - 13 voice lines
+
+@20655 = ~You see a spindly-looking merchant with a brush of gray and red stubble across his chin. He wears several layers of brightly colored robes, so much so that he looks like a flag with arms and legs. He is shaking slightly as you watch.~ [GI20655V]
+@21056 = ~"I, Giscorl." He bows and spreads his trembling hands. As he does, you notice his hands and forearms are a twisted mass of black scar tissue... as if they were once badly burned.~ [GI21056V]
+@21057 = ~Giscorl turns to you. "I, Giscorl." He bows and spreads his trembling, scarred hands. "I, Giscorl."~ [GI21057V]
+@21058 = ~"Giscorl buy cloth." Giscorl voice ticks like a clock, flat and measured. "Giscorl sell cloth, wash cloth, mend cloth and..." He gestures at his layers of clothing with his shaking hands. "...wear cloth."~ [GI21058V]
+@21059 = ~Giscorl doesn't seem to have heard you; he answers only with his spiel, delivered in the same flat monotone: "Giscorl buy cloth, sell cloth, wash cloth, mend cloth and..." He gestures at his layers of clothing with his shaking hands. "...wear cloth."~ [GI21059V]
+@21060 = ~Giscorl's monotone breaks. "Giscorl b-buy cloth, s-sell cloth, w-wash cloth, m-mend cloth, and..." He gestures at himself again, but his hands are shaking so badly that he cannot even finish.~ [GI21060V]
+@21061 = ~Giscorl blinks. "Wash cloth?"~ [GI21061V]
+@21062 = ~"Eh... rag? Picker?" He taps his fingers, as if counting something. "I know. I remember." He holds up a trembling finger, as if telling you to wait.~ [GI21062V]
+@21063 = ~He comes back with a flattened mass of green rags, thin as paper, yet so stiff they look like they could double as wooden boards. The rags are so caked with a greenish-lime starch that they look like it would take years of soaking to relax them.~ [GI21063V]
+@21064 = ~"Giscorl wash cloth, starch cloth every fifth-day, wash cloth, starch cloth every fifth-day." His eyes flicker. "Giscorl wash many years. Always starch cloth on fifth-day. Giscorl's ritual."~ [GI21064V]
+@21065 = ~"Wash cloth. Is Giscorl's ritual." His voice is flat, almost zombie-like. "*Must* starch cloth every fifth-day."~ [GI21065V]
+@21066 = ~"Give cloth." He nods, then hands you the rags. They're heavy... it's like carrying an armload of bricks.~ [GI21066V]
+@21067 = ~You finish perusing Giscorl's selection, and he nods. "I, Giscorl."~ [GI21067V]

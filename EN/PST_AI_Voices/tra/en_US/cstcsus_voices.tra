@@ -1,0 +1,10 @@
+// Cstcsus - 8 voice lines
+
+@9977 = ~You see an older man dressed in shoddy clothes. He notices you looking at him and tries to steer away from you. You deftly alter your course to intercept him.~ [CS9977V]
+@9980 = ~It looks as though he is going to try to run and then thinks better of the idea. His eyes dart about the area and never really focus on you. However, you get the impression that he is ready to flee at the drop of a hat. "I got nothin' ya want! I ain't done nothin' to ya neither! Leave me be... please!"~ [CS9980V]
+@9983 = ~His eyes focus on you for the first time. As he looks you up and down his look of worry deepens. "I... I'd help you if I could. I swear it, but I know nothin'... nothin' I swear! Please leave me be."~ [CS9983V]
+@9986 = ~His eyes begin to dart about again, as if he expects to be attacked from all sides. He begins to wring his hands together and glances at you nervously before returning his attention to the streets around him. "Uh... I don't want trouble, see? So I make it a point to know nothin', ok? That's how I know I can't help ya. Please! Leave me be!" You think he may begin to cry at any moment, he looks so distressed.~ [CS9986V]
+@9990 = ~A look of relief momentarily flashes across his face as he backs away from you. His eyes dart warily about until finally he turns and flees.~ [CS9990V]
+@9992 = ~His eyes dart about the area and a whimper escapes his lips. He puts his face in his hands and sinks to the ground sobbing. You don't think you're going to learn anything from him.~ [CS9992V]
+@9994 = ~A look of relief momentarily flashes across his face as he backs away from you. His eyes dart warily about and then focus on you. "You... you'd be willing to help me out? Me, a stranger? What's the catch, berk!"~ [CS9994V]
+@9996 = ~He looks you up and down warily and then glances about. The look of being hunted leaves his eyes for a moment as he faces you once again. "I thank ya. No other here would offer help to the likes of me. I... I don't think there is any help for me. Not ever... I thank ya... I must go."~ [CS9996V]

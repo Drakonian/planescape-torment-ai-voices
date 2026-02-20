@@ -1,0 +1,11 @@
+// Lowden - 9 voice lines
+
+@2883 = ~Lowden's mangled corpse stirs uneasily as you approach. "What you want, eh?"~ [LO2883V]
+@20822 = ~"Mayhap I'll tell... mayhap I won't... Ask yer questions..."~ [LO20822V]
+@20829 = ~"Lowden, eh? Me and Burt - and sometimes Gris, though he were nothin' but a bossy piker, and he was with us this last time - we was kings o' the catacombs. Dunno where Burt is. Probably dead."~ [LO20829V]
+@20834 = ~"Made a wrong turn when we was runnin' away from where we dumped Gris, bolted in here, and 'fore I realized my mistake, got diced up and sliced up twenty ways to peak. Got my pieces shoved down the grate, and now... heh... now not even th' Dusties'll pay for this lot." He lets out a wet chuckle that smells like swamp gas.~ [LO20834V]
+@20838 = ~"Heh. Story of its own. Mostly my idea it was, and it came off all right at first - Burt didn't have no clue what I was doing. Did some lookin' around, found out where a ghoul'd made its home, and thought we'd take ol' Gris down there. Turns out that ghoul'd made more ghouls, and they nearly had us. Shoved Gris inside and took off like the Lady herself was after us. Betting Gris is dead."~ [LO20838V]
+@20842 = ~"I'd say it's a pity but I don't think it is. Man had the heart of a worm and the soul of a serpent, and there's a reason we called him the Vulture. Figure if I'm dead, I'm just as happy he is too."~ [LO20842V]
+@20845 = ~"Weepin' Stone is what we calls 'em on account of the water off'n the ceiling and the cryin' faces on the walls. Plenty o' crypts down here, and plenty more we've plundered. More's the pity that we fell afoul of 'em, but it was bound t' happen. I knew this place like the back o' my hand, but ... it's all going dark on me now..."~ [LO20845V]
+@20848 = ~This body has been horribly mangled. It looks like it's been burned, stabbed, sliced, bludgeoned, and forced through a grate. It's in two halves, lying in a crusted pool of old blood. The voice that emerges from it, though, is practically jovial, and there's a tinge of maddened glee to it. "Aye, berk, what're ye wanting?"~ [LO20848V]
+@20851 = ~This body has been horribly mangled. It looks like it's been burned, stabbed, sliced, bludgeoned, and forced through a grate. It's in two halves, lying in a crusted pool of old blood.~ [LO20851V]

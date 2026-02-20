@@ -1,0 +1,7 @@
+// Skelbar - 5 voice lines
+
+@2565 = ~The skeleton turns toward you, rattling as he does so. A number of his bones are held together with leather straps, and a wine-stained green tunic hangs from his shoulders.~ [SK2565V]
+@2570 = ~The skeleton makes no reply.~ [SK2570V]
+@2572 = ~This skeleton makes no reply. It looks like it is too far gone to answer any of your questions.~ [SK2572V]
+@7069 = ~Someone has taken care to bind the bones of this skeleton with leather straps, woven around the body in such a pattern that they resemble muscles and tendons. The straps are secured to iron bolts punched into the skeleton's joints. This skeleton is in good condition; its bones, freshly coated in whitewash, have had all traces of its former body scrubbed off of them.~ [SK7069V]
+@7070 = ~Much like the skeletons in the Mortuary, someone has taken care to bind the bones of this skeleton with leather straps, woven around the body in such a pattern that they resemble muscles and tendons. Unlike the Mortuary skeletons, however, there are no bolts in this skeleton's joints... you can't quite see how the joints are connected. Overall, this skeleton is in good condition; its bones, freshly coated in whitewash, have had all traces of its former body scrubbed off of them.~ [SK7070V]

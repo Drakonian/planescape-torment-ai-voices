@@ -1,0 +1,9 @@
+// Skelw - 7 voice lines
+
+@286 = ~The skeleton turns to face you. A number has been chiseled into its forehead, and a number of its bones, mostly the jaws and the joints, have been bound with leather straps. A black smock is draped over its body.~ [SK0286V]
+@290 = ~The skeleton makes no reply.~ [SK0290V]
+@1162 = ~This skeleton makes no reply. It looks like it is too far gone to answer any of your questions.~ [SK1162V]
+@3927 = ~Someone has taken care to bind the bones of this skeleton with leather straps, woven around the body in such a pattern that they resemble muscles and tendons. The straps are secured to metal bolts punched into the skeleton's joints. This skeleton looks like it has seen a great deal of service: many of its bones are chipped and its numerous fractures are bound with sealant and foul-smelling glues.~ [SK3927V]
+@3953 = ~You pull at the iron bolts, but you're not strong enough to pull them out. They've been hammered in pretty tight.~ [SK3953V]
+@3960 = ~You pull at the iron bolts with all your strength, and after a few moments of tugging, you rip the bolts from the joints. The skeleton collapses, some of its bones still twitching.~ [SK3960V]
+@3961 = ~Using your prybar, you rip the bolts from the skeleton's joints. The skeleton collapses, some of its bones still twitching.~ [SK3961V]

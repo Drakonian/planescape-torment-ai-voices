@@ -1,0 +1,6 @@
+// Genshpm - 4 voice lines
+
+@36044 = ~You see a man leisurely examining the wares.~ [GE36044V]
+@36047 = ~He glances at you. "Yes, cutter?"~ [GE36047V]
+@36050 = ~He frowns and waves you away. "I have no time for this, cutter. Leave me be." He turns away from you.~ [GE36050V]
+@36052 = ~The shopper turns to look at you then immediately turn his back to you. He ignores your attempts to talk to him.~ [GE36052V]

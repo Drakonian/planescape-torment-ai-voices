@@ -1,0 +1,11 @@
+// Touthvc - 9 voice lines
+
+@33767 = ~This thuggish-looking man approaches you with a wry smile. "Oye there, blood... 'ow ye doin? I's the local tout, I am, so if ye've got a copper ta spare, I'm yer man fer directions an' the like."~ [TO33767V]
+@33768 = ~"Oye there, blood... 'ow ye doin? I's the local tout, I am, so if ye've got a copper ta spare, I'm yer man fer directions an' the like."~ [TO33768V]
+@33769 = ~"Hooo, by the powers' bottoms... ye must be newer ta Sigil than ye looks! A tout's a guide, blood."~ [TO33769V]
+@33770 = ~The man snatches the coin from your grasp and winks. "Right! This here part o' the Hive's got two gates leadin' out o' it - one in the north, an' one in the southeast. Oh, an' if ye're lookin' fer a good fight, there's an alley leadin' northeast ye might want to swing by. We've also got the Office fer Vermin an' Disease Control an' a good-sized Market here."~ [TO33770V]
+@33771 = ~"In the middle southern half o' this area... its door faces southwards, so just walk along the southernmost east-west road till ye sees it."~ [TO33771V]
+@33772 = ~"In the southern crook of an 'L' shaped buildin' in the northern middle half o' this area. If ye walks along the northernmost east-west road here, ye'll sees it. Lotta people, lotta merchants an' the like."~ [TO33772V]
+@33773 = ~"Leads ta more o' the Hive, blood. There's a flophouse up there, if ye're tired... or just plain hurtin'... an' need ta catch a few winks."~ [TO33773V]
+@33774 = ~"Just another bit o' the Hive, blood. Ye can get some tattoos, there, and there's a great lil' pub, name o' the Smolderin' Corpse."~ [TO33774V]
+@33775 = ~The man shrugs. "Just a place ta go if ye're lookin' fer a little rough an' tumble, that's all... ye looks a bit the fightin' type, so's I brought it up. Like I said, it's to the northeast... so stays away if ye're not lookin' for trouble."~ [TO33775V]

@@ -1,0 +1,6 @@
+// Dustmba - 4 voice lines
+
+@2554 = ~You see a somber, pale-faced man in black robes. He is staring silently into his drink.~ [DU2554V]
+@2555 = ~You see a somber, pale-faced Dustman in black robes. He is staring silently into his drink.~ [DU2555V]
+@2560 = ~The Dustman looks up. "Yes?"~ [DU2560V]
+@2563 = ~"Not at this time." The Dustman becomes silent and turns back to his drink.~ [DU2563V]

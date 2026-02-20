@@ -1,0 +1,9 @@
+// Pestl - 7 voice lines
+
+@42050 = ~This man closely resembles Pestle Kilnn, though without the crawling skin and constant, subtle mutations. "Greetings again, sir, and well met. And what is it I, Pestle, can do for ye?"~ [PE42050V]
+@42055 = ~"Yes, of course; yer reward, aye? Let's see, now... I'll manufacture them for ye for nothing, of course... but I'll need the proper ingredients. Hmmm... an oni's heart, or powdered hematite, or the hair of a deva, or a thread from an aasimon's robe, or the blood of a regenerating creature, such as a troll or..."~ [PE42055V]
+@42057 = ~Pestle raises an eyebrow. "Do they, now? Well, then, your own blood just might do. Here... give me a sample, if you would."~ [PE42057V]
+@42059 = ~After drawing a small quantity of your blood and retreating to the back of the store, Pestle returns with a number of what appear to be hardened drops of blood. "Placed upon one's tongue, these Clot Charms will heal existing wounds and aid in the prevention of new ones, for a time."~ [PE42059V]
+@42063 = ~"My humblest apologies, sir, but I only speak of the store. Besides, I rarely leave the place, ye see? Ye'd be better off finding another to answer yer questions."~ [PE42063V]
+@42067 = ~"A scraping? Very well." He takes up a razor blade and a wide-mouthed bottle. Pestle then removes a small section of skin from your forearm, placing it into the bottle along with a small quantity of your blood. He then places some gauze over your wound and hands you the bottle. "Ye need anything more, sir?"~ [PE42067V]
+@42070 = ~You see Pestle, the alchemist. "Greetings again, sir, and well met. And what is it I can do for ye?"~ [PE42070V]

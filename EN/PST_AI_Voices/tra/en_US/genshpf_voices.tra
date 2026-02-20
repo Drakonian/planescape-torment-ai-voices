@@ -1,0 +1,6 @@
+// Genshpf - 4 voice lines
+
+@36034 = ~You see a woman leisurely examining the wares.~ [GE36034V]
+@36037 = ~She glances at you. "Yes, cutter?"~ [GE36037V]
+@36040 = ~She waves you away. "I have no time for this, cutter. Leave me be." She turns away from you.~ [GE36040V]
+@36042 = ~The shopper notices your approach and turns her back to you. She ignores your attempts to talk to her.~ [GE36042V]

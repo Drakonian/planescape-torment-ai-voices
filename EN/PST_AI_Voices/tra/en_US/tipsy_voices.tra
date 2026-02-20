@@ -1,0 +1,8 @@
+// Tipsy - 6 voice lines
+
+@3022 = ~This older man is staring into his stein of ale, misery etched into his features. The battered pewter mug is an unusual one, lightly engraved with strange runes and bearded faces, and covered with a coat of thin frost. He looks up as you approach him. "Greetings... sir..." He seems slightly tipsy.~ [TI3022V]
+@46157 = ~He shakes his head sadly, taking another draught of his ale. "Nay, nay... you shan't... find any answers here... you won't."~ [TI46157V]
+@46161 = ~He sighs, belches into his hand, and nods as he takes another pull of ale. "Aye, something's wrong, all right. I've gone and lost... my apprenticeship. Well hung over, I was, and botched... my mentor's last experiment. All for this damned... drink!" He sneers at the mug in his hand, but in seconds his expression softens and he takes another swig. "Ruins everything, it does, this damnable drinking of mine..."~ [TI46161V]
+@46165 = ~He shrugs and sighs miserably. "I simply... cannot. I want to, but I cannot. I just... *need* to drink. I try and stay away, but desire eventually... overcomes me, and I cannot resist. Such a... wreck I've become!" He throws back the last of his ale and calls for more.~ [TI46165V]
+@46170 = ~His eyes brighten. "Truly? I shall go... speak to her now, then. I thank... you, sir." He pauses, looking down at his empty mug. "Here... I would have you take this. I need it... no longer." He hands you the rune-covered ale stein.~ [TI46170V]
+@46172 = ~"This?" He looks down at the pewter mug. "I won this in a dice game. It's enchanted to... keep whatever's in it freezing cold. In my case... cheap ale." He frowns, rubs at his eyes, and takes another swig of his drink.~ [TI46172V]

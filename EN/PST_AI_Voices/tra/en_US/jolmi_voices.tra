@@ -1,0 +1,16 @@
+// Jolmi - 14 voice lines
+
+@43388 = ~This stern-looking older woman seems to be looking for someone. Her eyes fix upon your face as you approach her. "You there... might I have a word with you?"~ [JO43388V]
+@43855 = ~"My name is Jolmi, a noblewoman of the House Syrma. I am seeking a certain man that I have been told cannot die... a terribly scarred man, for whom death is nothing but the most trivial of annoyances. What bits of a description I have gathered match you quite well... are you this man?"~ [JO43855V]
+@43858 = ~She nods sharply. "In that case, I offer my thanks for your time. Farewell."~ [JO43858V]
+@43861 = ~Jolmi shakes her head. "There are others here who might answer your questions. I would ask that you find one, and leave me to my search. Farewell."~ [JO43861V]
+@43864 = ~"I am pleased to meet you, then." She gives a slight bow. "I would make you a somewhat unusual proposal... though you must admit you are an unusual man. I will give you one thousand copper commons... for your permission to kill you. Are you open to discussion on the matter?"~ [JO43864V]
+@43870 = ~Jolmi doesn't bat an eyelash. "But why not? I thought it might be an interesting experience - paying someone for the privilege of murdering them. When I first heard rumors of your existence, how could I resist? So... what is your answer? Shall we discuss the matter in greater detail?"~ [JO43870V]
+@43876 = ~Jolmi frowns. "One hears all sorts of things in the Festhall. How could one *not* eventually hear of a man like you? Again I ask: will you consider my proposal?"~ [JO43876V]
+@43881 = ~After a short discussion, it comes down to the following terms: Jolmi will pay you one thousand copper commons; in return, you will allow her to drive her dagger into your heart. She will wait for you to awaken, at which point she will give you the coin.  "Do you agree to this, then?"~ [JO43881V]
+@43885 = ~After a short discussion, it comes down to the following terms: Jolmi will pay you fifteen hundred copper commons; in return, you will allow her to drive her dagger into your heart. She will wait for you to awaken, at which point she will give you the coin.  "Do you agree to this, then?"~ [JO43885V]
+@43888 = ~After a short discussion, it comes down to the following terms: Jolmi will pay you two thousand copper commons; in return, you will allow her to drive her dagger into your heart. She will wait for you to awaken, at which point she will give you the coin.  "Do you agree to this, then?"~ [JO43888V]
+@43891 = ~The affair is over in moments... she's already cleaned her blade and put it away by the time you've recovered. After picking yourself up off the Festhall floor, Jolmi hands you several rolls of copper coins while you rub your aching chest.  "Somewhat disappointing, I must admit. Ah, well... coin well-spent, nonetheless. Farewell."~ [JO43891V]
+@43893 = ~Jolmi turns her hard eyes on you. "Yes?"~ [JO43893V]
+@43897 = ~Jolmi's cold eyes glint with recognition as you come before her. "You've reconsidered, my offer, then? One thousand coins for your permission to kill you?"~ [JO43897V]
+@43903 = ~Jolmi turns her hard eyes on you; there is a glint of recognition as they pass over your face. "Yes?"~ [JO43903V]

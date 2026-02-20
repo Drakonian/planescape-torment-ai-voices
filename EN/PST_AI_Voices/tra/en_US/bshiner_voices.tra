@@ -1,0 +1,5 @@
+// Bshiner - 3 voice lines
+
+@51711 = ~The young man smiles as you enter his tent, gesturing for you to sit down. "Clean and wax your boots, sir? A wondrous shine for only two copper commons..."~ [BS51711V]
+@51713 = ~"I welcome you once more, sir. Here to get your boots shined, perchance? A cleaning and waxing for a pair of copper commons..."~ [BS51713V]
+@51715 = ~"And a farewell to you, sir... please return should you need your boots shined."~ [BS51715V]

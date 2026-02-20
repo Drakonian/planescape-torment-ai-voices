@@ -1,0 +1,14 @@
+// Binian - 12 voice lines
+
+@57500 = ~You see a young man in tattered clothes. He has a bored expression on his face as he stares off into the distance.~ [BI57500V]
+@57503 = ~Your greeting startles him and he jumps at the sound. He stares at you for a moment. "Don't be sneaking up on me like that, cutter. Damn near killed me with fright."~ [BI57503V]
+@57504 = ~He frowns. "Like what..."~ [BI57504V]
+@57511 = ~"You don't need to know my name, just ask your questions and then leave me be." He gives you a defiant look.~ [BI57511V]
+@57515 = ~He shrugs. "Fine, my name is Binian. You happy now?"~ [BI57515V]
+@57518 = ~"It's a dung heap and you and me and everyone you see down here is just another piece of crap that the city throws on the heap." He gives you a mock smile. "That pretty much says it all."~ [BI57518V]
+@57522 = ~He shrugs his shoulders and looks around nervously. "I stole some things... I maybe hurt a few sods here and there... so here I am."~ [BI57522V]
+@57526 = ~He shakes his head. "No, I'm an ex-thief. After spending a year in this crap hole, I'm an ex-thief..." He sighs and looks away. "I never want to end up here again, that's for sure."~ [BI57526V]
+@57529 = ~He frowns and looks away. "There's one down here, he's at the new excavation site. Just look for the recent digging and you'll find him."~ [BI57529V]
+@57534 = ~He shrugs. "Never been there, it's off that way." He gestures vaguely. "You can't miss it, look for signs of digging."~ [BI57534V]
+@57538 = ~He shakes his head. "Nothing. When they want to expand the prison, the guards make us dig." He snorts. "It's all a part of the punishment..."~ [BI57538V]
+@57542 = ~You see Binian, the thief. "You again... what do you want now?"~ [BI57542V]

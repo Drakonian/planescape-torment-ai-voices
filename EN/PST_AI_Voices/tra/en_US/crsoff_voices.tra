@@ -1,0 +1,18 @@
+// Crsoff - 16 voice lines
+
+@3174 = ~"Please! Save me! They're trying to kill me just for doing my job! I didn't mean any harm! Can't they see they're the ones bringing this town to ruin?" He is sobbing. "Please... you have to do something!"~ [CR3174V]
+@3176 = ~Siabha spits at your feet. "Dog! You dare speak to me again when your false words imprisoned me here! Traitor! I hope the Styx swallows you and spits your bleached bones on the shore, that they might be whittled into flutes for an army of dung-eaters!"~ [CR3176V]
+@3178 = ~This woman wears a haughty expression on her aquiline face, and her contempt for you is obvious as she speaks to you. "I am a busy woman. Do not detain me long."~ [CR3178V]
+@60217 = ~"Well?"~ [CR60217V]
+@60223 = ~"Our dealings are done. Begone or I shall have the guards remove you."~ [CR60223V]
+@60225 = ~"Back so soon? I have no time for your questions, scarred man."~ [CR60225V]
+@60230 = ~"I am not a common tout for your pleasure and whim. Leave."~ [CR60230V]
+@60233 = ~She looks you over appraisingly. "I would really love to stay and chat with such a fine specimen, but I'm afraid duty calls. You do understand, don't you? Of course you do."~ [CR60233V]
+@60236 = ~"He's plotting some sort of defamation of me again, isn't he? What will it take to reverse his latest trick? How about if I double whatever he's paying you?"~ [CR60236V]
+@60239 = ~"Then go do whatever it was he asked you to do to me - but switch our roles, hm? I'll see you're rewarded handsomely."~ [CR60239V]
+@60242 = ~"Bah! Enough of this! I shall match his promise, but I will not raise it any further." She smiles challengingly at you. "You'll have to make your own decision. But remember... I may be able to offer you a little something more."~ [CR60242V]
+@60244 = ~She passes you a heavy bag of coins. "Take this, then, and begone. We never spoke of this matter." She tips a wink. "You have my gratitude... for whatever that's worth. Farewell, stranger."~ [CR60244V]
+@60246 = ~"I'm really very busy. Perhaps when you've finished this little errand? Thanks ever so much." She gives you a smile of brightest white, and turns away.~ [CR60246V]
+@60248 = ~She sneers. "Yes, I'm certain that's all it was. Remember... whatever he offered, I will double. Think on that, stranger."~ [CR60248V]
+@66785 = ~This man, dressed in the finery of a Curst official, is terrified. "They're trying to kill me! I was just doing my job when the town shifted, and they think I had something to do with it, just because I signed execution orders! I meant no harm! I was just doing my job! Please help me!"~ [CR66785V]
+@66794 = ~"Then I hope the gehreleths slaughter all of you! You bastard!"~ [CR66794V]

@@ -1,0 +1,6 @@
+// Hivew - 4 voice lines
+
+@2293 = ~You see a woman dressed in faded, patched-up clothes. She glances at you as you approach, but turns away quickly, as if unwilling to make eye contact with you.~ [HI2293V]
+@2296 = ~The woman glances at you again, gives you an ice-cold look, then turns away.~ [HI2296V]
+@2299 = ~She turns again... and this time, you see a dagger in her hand. "Leave me be, dog, or I'll be jabbin' this where they'll never be finding it!"~ [HI2299V]
+@2302 = ~She makes a semi-circle over her heart with her free hand, as if to ward off evil. "I have nothin' to say to ye! Be gone with ye!"~ [HI2302V]

@@ -1,0 +1,15 @@
+// Hgdrix - 13 voice lines
+
+@37412 = ~You see a tall man in plate armor. The armor is of unusual construction with spikes flaring from the shoulders, elbows, and forearms. He nods at your approach. "Good day, citizen."~ [HG37412V]
+@37415 = ~"How may I help you, citizen?" He gives you a friendly look.~ [HG37415V]
+@37418 = ~He smiles. "Certainly, citizen."~ [HG37418V]
+@37424 = ~He gives you a slight bow. "I am Harmonium guard Drixel, citizen. I keep the peace here at the market."~ [HG37424V]
+@37427 = ~He snaps to attention. "Our belief is simple: We are the light. We are the Way. We are Order. We are Truth." He steels his expression. "There wasn't even a question of me joining them. You see, some berks talk about doing battle with chaos to restore order and harmony, but they haven't got the stones to do anything about it. The Harmonium, we take action. We keep order on Sigil's streets and on the planes." He nods at you matter-of-factly.~ [HG37427V]
+@37430 = ~He looks even bolder as he speaks. "And we don't keep order with words. We fight, and fight hard to maintain and enforce order. Cross-traders, knights-of-the-post, Indeps, Anarchists, Xaositects, tanar'ri fiends... all had best beware the Harmonium's shadow. Chaos can only exist in an air of tolerance!"~ [HG37430V]
+@37433 = ~He looks rather bored, then shrugs his shoulders. "Nothing. They are not a part of the Truth that is the Harmonium. I have not studied them."~ [HG37433V]
+@37435 = ~He gives you a dumbfounded look, starts to say something, stops, and then starts again. "Ah, well... no one knows for certain where Lothar is, citizen. He hasn't broken any laws that we know of so we at the Harmonium leave him be. Uh... I'd suggest you do the same."~ [HG37435V]
+@37440 = ~He gives you an annoyed look. "Because, berk. You don't mess with someone as powerful as Lothar without an extremely good reason and lots of friends backing you up! That's why."~ [HG37440V]
+@37444 = ~He stares at you for some time before answering. "Very well. You can find the entrance to his kip in a wrecked building here in the Ward." He begins to look through you, rather than at you.~ [HG37444V]
+@37446 = ~He stares at you for some time before answering. "That sounds like something that Lothar, the Master of the Bones, would do." He glances around nervously and then talks softly to you. "Well, not Lothar himself, but one of his henchmen. Lothar keeps his nose clean."~ [HG37446V]
+@37449 = ~He gestures at the market. "Plenty of merchants here, citizen. You can find what you need with them."~ [HG37449V]
+@37454 = ~Drixel bows slightly to you. "Good day to you again, citizen. How may I serve you?"~ [HG37454V]

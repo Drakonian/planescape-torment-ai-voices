@@ -1,0 +1,6 @@
+// Dorn - 4 voice lines
+
+@57946 = ~You see a middle aged man. He looks at you with interest as you approach. "Good day, cutter."~ [DO57946V]
+@57949 = ~He gives you a slight bow. "I'm Dorn. Can I interest you in my wares?"~ [DO57949V]
+@57953 = ~He shakes his head. "I don't have time for questions right now. Another day perhaps."~ [DO57953V]
+@57958 = ~You see Dorn, the merchant. He smiles at you. "Again we meet. How may I serve you?"~ [DO57958V]

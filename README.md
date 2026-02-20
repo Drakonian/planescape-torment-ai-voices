@@ -62,14 +62,14 @@ Every voice in this mod is created through a multi-step pipeline that tries to c
 
 ```mermaid
 flowchart LR
-    A["Game Dialogue\nFiles (.D)"] --> B["Extract &\nParse Text"]
-    B --> C["Split into\nNarration &\nSpeech"]
-    C --> D["Generate Audio\n(ElevenLabs API)"]
-    D --> E["Combine &\nNormalize"]
-    E --> F["Final WAV\nFiles"]
-    F --> G["WeiDU Mod\nPackage"]
+    A["Game Dialogue<br/>Files (.D)"] --> B["Extract &<br/>Parse Text"]
+    B --> C["Split into<br/>Narration &<br/>Speech"]
+    C --> D["Generate Audio<br/>(ElevenLabs API)"]
+    D --> E["Combine &<br/>Normalize"]
+    E --> F["Final WAV<br/>Files"]
+    F --> G["WeiDU Mod<br/>Package"]
 
-    P["Narrator Description\n+ Character Personality"] --> V["Design Voice\nProfile"]
+    P["Narrator Description<br/>+ Character Personality"] --> V["Design Voice<br/>Profile"]
     V --> D
 
     style A fill:#1a1a2e,color:#eee

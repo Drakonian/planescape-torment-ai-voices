@@ -13,6 +13,12 @@ Planescape: Torment is one of the most text-rich RPGs ever made &mdash; over **8
 
 This is a **free fan project** made for the love of the game. No monetization, no paywalls &mdash; just a mod for anyone who wants to experience Sigil and the Planes with full voice acting.
 
+### Watch it in action
+
+[![PST AI Voices Demo](https://img.youtube.com/vi/21MIzEyCRXQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=21MIzEyCRXQ)
+
+### [Download Latest Release](https://github.com/Drakonian/planescape-torment-ai-voices/releases/)
+
 ## By the Numbers
 
 | | |

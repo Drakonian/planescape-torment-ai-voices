@@ -1,0 +1,10 @@
+// Scpat1 - 8 voice lines
+
+@3072 = ~You see a scruffy, ill-kempt man. He smells strongly of alcohol. "Yeah? Whaddya want, eh?" He leans in close and looks you up and down. "Looks like you could use a HEALER!" He laughs loudly at his own poor humor, and the nauseating stench of liquor and poorly-chewed food washes over you.~ [SC3072V]
+@10787 = ~"If it ain't my old friend, Sir Scar!" He chortles under his breath, or at least makes a valiant attempt. In his inebriated condition, he has trouble doing anything quietly. "What can ol' Slappy do for you, scarman?"~ [SC10787V]
+@10793 = ~"Me? I'm ANDOR!" He weaves on his feet. "Usedta be a helluva fight man, too, but that'uz before the bub took a hold of me. Friends called me Slappy cause I was so good at doin' it to people, but now they call me Slappy cause so many women do it t'me when I talk to'm."~ [SC10793V]
+@10796 = ~He pauses for a moment. "Well, if you lost it in the hive, issa good chance some Collector somewhere has it. Check out in the Hive s'more. They find all sorts of stuff out there. Maybe they can help you."~ [SC10796V]
+@10799 = ~"This place? Smold'ring Corpse. Best place in town for a drink. Leastways, long's you don't mind drinkin' near a fiend or two. Nor if you don't mind Red Death pokin' their heads in on occasion. Lots of people here. Lots of interesting things. Lots."~ [SC10799V]
+@10802 = ~"That? That's Ignus. He's some crazy ol' coot mage who got the bright idea t'burn down the Hive. You see the Alley of Dangerous Angles? He done that. Group o' wizards got together'n did some magicks on him and now he's a tavern theme thing... umm... mascot. My cousin was one o' the wizards. No great shakes as a mage, but he sure got this berk!"~ [SC10802V]
+@10805 = ~"Whaddya need to know?"~ [SC10805V]
+@10812 = ~"Pharod? The name sounds familiar, but... ah, you know how it is when you done pickled your head wi' bub, I'm sure. I just can't remember. You got my apologies, scar."~ [SC10812V]

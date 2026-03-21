@@ -20,6 +20,7 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 1890 @1890
   STRING_SET 1891 @1891
   STRING_SET 1892 @1892
+  STRING_SET 1981 @1981
   STRING_SET 1984 @1984
   STRING_SET 1990 @1990
   STRING_SET 1991 @1991
@@ -30,6 +31,7 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 2016 @2016
   STRING_SET 2019 @2019
   STRING_SET 2022 @2022
+  STRING_SET 2031 @2031
   STRING_SET 2041 @2041
   STRING_SET 2050 @2050
   STRING_SET 2057 @2057
@@ -191,8 +193,10 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 33297 @33297
   STRING_SET 33435 @33435
   STRING_SET 33437 @33437
+  STRING_SET 33981 @33981
   STRING_SET 33984 @33984
   STRING_SET 33987 @33987
+  STRING_SET 33989 @33989
   STRING_SET 39003 @39003
   STRING_SET 39004 @39004
   STRING_SET 39005 @39005
@@ -223,6 +227,7 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 45721 @45721
   STRING_SET 46094 @46094
   STRING_SET 46095 @46095
+  STRING_SET 47311 @47311
   STRING_SET 47312 @47312
   STRING_SET 47313 @47313
   STRING_SET 47314 @47314
@@ -291,6 +296,27 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 61419 @61419
   STRING_SET 61420 @61420
   STRING_SET 61421 @61421
+  STRING_SET 61664 @61664
+  STRING_SET 61665 @61665
+  STRING_SET 61762 @61762
+  STRING_SET 61763 @61763
+  STRING_SET 61764 @61764
+  STRING_SET 61765 @61765
+  STRING_SET 61766 @61766
+  STRING_SET 61767 @61767
+  STRING_SET 61768 @61768
+  STRING_SET 61769 @61769
+  STRING_SET 61770 @61770
+  STRING_SET 61771 @61771
+  STRING_SET 61772 @61772
+  STRING_SET 61773 @61773
+  STRING_SET 61774 @61774
+  STRING_SET 61775 @61775
+  STRING_SET 61776 @61776
+  STRING_SET 61777 @61777
+  STRING_SET 61778 @61778
+  STRING_SET 61779 @61779
+  STRING_SET 61780 @61780
   STRING_SET 62891 @62891
   STRING_SET 63309 @63309
   STRING_SET 63310 @63310
@@ -298,6 +324,11 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 63312 @63312
   STRING_SET 63313 @63313
   STRING_SET 63485 @63485
+  STRING_SET 63693 @63693
+  STRING_SET 63694 @63694
+  STRING_SET 63695 @63695
+  STRING_SET 63696 @63696
+  STRING_SET 63859 @63859
   STRING_SET 64221 @64221
   STRING_SET 67053 @67053
   STRING_SET 67057 @67057
@@ -462,6 +493,7 @@ COPY ~PST_AI_Voices/audio/companions~ ~override~
   STRING_SET 67709 @67709
   STRING_SET 67712 @67712
   STRING_SET 68184 @68184
+  STRING_SET 68186 @68186
   STRING_SET 68258 @68258
   STRING_SET 68327 @68327
   STRING_SET 68329 @68329
@@ -4504,7 +4536,7 @@ COPY ~PST_AI_Voices/audio/side_npcs~ ~override~
   STRING_SET 67895 @67895
 
 
-// Component 3: Minor NPC Voices (Aalek, Abishai, Acaste, Actorcw, Adabus, Adahn, Adminas, Adyzoel, Aelwyn, Aethel, Agril, Aileena, Alais, Almidil, Amarys, Anam, Anarch, Anazi, Angyar, Anizius, Anskull, Anze, Aola, Area0202_P, Area202_POR, Area610_POR, Arlo, Armgrd, Armoire, Art, Ashman, Athug, Await, Baen, Baria, Barih, Barking, Barkis, Barkp, Barr, Bathug, Bbplot, Berrog, Binian, Bish, Blackr, Bladeim, Body, Box, Bportal, Brasken, Brbgate, Brocus, Brokah, Bshiner, Bsphere, Burgher, Burt, Bvcoll, Bvggrd, Bvpcgrd, Byron, Cannon, Caretkr, Cartist, Carver, Cassius, Cbpat, Celest, Cgbody, Cgoon, Chad, Chekka, Cinder, Clock, Coax, Codexi, Collech, Collect, Colsrgr, Colylfn, Copearc, Copper, Craddo, Creed, Crier, Crscapt, Crsdstl, Crsoff, Crssmth, Crstgrd, Cslave, Cstcang, Cstchlp, Cstcpr, Cstcrog, Cstcser, Cstcsus, Cstgenf, Cstgenm, Cstnep, Cstthg, Cube, Cwactf, Cwactm, Cwcafef, Cwcafem, Cwmimef, Cwmimem, Cwpoetf, Cwpoetm, Cwrushb, Cwrushf, Cwrushm, Dabus, Dallan, Dallngf, Damsel, Dbirds, Ddabus, Deaddab, Deathad, Deathon, Deion, Deran, Derfem, Dermale, Devore, Dhall, Dilignc, Dillon, Dimtree, DMW2, Dnmerch, DO, Dorfin, Dorn, Doubt, Dream, Drnghcp, Drnghgd, Drtrgh, Drunk, Drunkz, DS863, Dust, Dustfb, Dustfba, Dustfem, Dustgu, Dusthgg, Dustmb, Dustmba, Dylana, Eadgrd, Eblade, Ecco, Eguards, Eivene, Eldan, Eli, Elobran, Elyce, Emoric, Espec, Evskull, Exec, Fbvger, Finam, FINGER, FINNOTE, Fleece, Forge, Fslave, Fstclrk, Gamlin, Gaoha, Gathug, GDIARY, Genaf, Genam, Genshpf, Genshpm, Gerik, Ghirst, Ghivef, Ghivem, Ghiverm, Ghocitf, Ghocitm, Giantsk, Gib, Gildea, Giltsp, Giscorl, Gith, Githsol, Glyve, Goncal, Gort, Gris, Grosuk, Gspirit, Gwwf, Gwwm, Hailcii, Haoda, Hargri, Harlotd, Harlotn, Harslav, Hbdygrd, Hcon, Hermit, Hezobol, Hgcorv, Hgdrix, Hguard, Hivef, Hiveh, Hivew, Hivvag, Hivvar, Hpatrol, Iannis, Ilquix, Ilquixn, Ilquixt, Impulse, Ingress, Inscr, Ironna, Iteeth, Jarym, Jas, Jaydee, Jhelai, Jolmi, Judge, Jujog, Jumble, Justfer, Karina, Keldor, Kellera, Kemak, Kesai, Kester, Kidmort, Kiina, Kilnn, Kimasxi, Kiri, Kitla, Knfghl, Korur, Krys, Kuatraa, Kuuyin, Labor, Lcon, Leighis, Lenny, Lingash, Looter, Lowden, Lscribe, Lwgf, Lwgm, Mach, Maeth, Majord, Malmanr, Mantuok, Manyas, Mar, Marissa, Marquez, Marrow, Marta, Mbvger, Mcon, Mengine, Mercmo, Meriman, Merkil, Mertwyn, Mftree, Mhead, Mhult, Miccah, Mime, Mit, Mmourn, Modron, MONJUG, Montagu, Mooch, Mourns-for-Trees, Mourns-for-Trees (alt), Msgr, Mslave, Murk, N1201, Nabat, Names, Neml, Nenny, Nestor, Nodd, Noname, Norochj, Ojo, Paidoor, Papuz, Peato, Penta, Pestal, Pestl, Pestle, Petlimc, Petlimi, Phineas, PLACE2, Poet, Porphir, Post, Pregal, Psmess, Ptcoff, Pttrans, Puzskel, Quell, Quentin, Quint, Quisai, Quisho, Radine, Rae, Raimon, Rangel, Ratbone, Rauk, Reek, Ridskel, Rnghcp, Roberta, Rodmm, Rotwill, Royalgd, Rubikon, Sabast, Sadjuli, Salabsh, Sandoz, Sarhava, Saros, Sarossa, Sbaur, Scmk, Scoff, Scpat, Scrandm, SCTRAP, Sdthug, Sere, Sevtai, Sguard, Shad, Sheryl, Shiland, Shiv, Skatch, Skelbar, Skelcit, Skelw, Skjourn, Skscrap, SOHMIEN, Sostone, Spec, Splint, Sskull, Stalema, Standsh, Stench, Strahan, Supwep, SWORDOW, Sybil, Tarin, Tbarse, Tegarin, Tek, Test, Testes, Thildon, Thkslav, Thornco, Thorp, Thugb, Thugoe, Thugp, Thugs, Thugt, Thugv, Tipsy, Tires, Tit, Toady, Tomb, Touthva, Touthvb, Touthvc, Touthvd, Tpaint, Tplans, Trans, Transf, TRELON, Trist, Ucho, Udesire, Uhir, Ulthera, UPORTAL, Useme, Vault, Vaxis, Vivian, Vlask, Voorsha, Vorten, Wangyar, WERERAT, Wernet, Weskull, Wit, WSCROLL, Xach, Xander, Xanthia, Yelaan, Yoboy, Yvana, Zerb, Zombie, Zombie (generic), Zombie Male)
+// Component 3: Minor NPC Voices (Aalek, Abishai, Acaste, Actorcw, Adabus, Adahn, Adminas, Adyzoel, Aelwyn, Aethel, Agril, Aileena, Alais, Almidil, Amarys, Anam, Anarch, Anazi, Angyar, Anizius, Anskull, Anze, Aola, Area0202_P, Area202_POR, Area610_POR, Arlo, Armgrd, Armoire, Art, Ashman, Athug, Await, Baen, Baria, Barih, Barking, Barkis, Barkp, Barr, Bathug, Bbplot, Berrog, Binian, Bish, Blackr, Bladeim, Body, Box, Bportal, Brasken, Brbgate, Brocus, Brokah, Bshiner, Bsphere, Burgher, Burt, Bvcoll, Bvggrd, Bvpcgrd, Byron, Cannon, Caretkr, Cartist, Carver, Cassius, Cbpat, Celest, Cgbody, Cgoon, Chad, Chekka, Cinder, Clock, Coax, Codexi, Collech, Collect, Colsrgr, Colylfn, Copearc, Copper, Craddo, Creed, Crier, Crscapt, Crsdstl, Crsoff, Crssmth, Crstgrd, Cslave, Cstcang, Cstchlp, Cstcpr, Cstcrog, Cstcser, Cstcsus, Cstgenf, Cstgenm, Cstnep, Cstthg, Cube, Cwactf, Cwactm, Cwcafef, Cwcafem, Cwmimef, Cwmimem, Cwpoetf, Cwpoetm, Cwrushb, Cwrushf, Cwrushm, Dabus, Dallan, Dallngf, Damsel, Dbirds, Ddabus, Deaddab, Deathad, Deathon, Deion, Deran, Derfem, Dermale, Devore, Dhall, Dilignc, Dillon, Dimtree, DMW2, Dnmerch, DO, Dorfin, Dorn, Doubt, Dream, Drnghcp, Drnghgd, Drtrgh, Drunk, Drunkz, DS863, Dust, Dustfb, Dustfba, Dustfem, Dustgu, Dusthgg, Dustmb, Dustmba, Dylana, Eadgrd, Eblade, Ecco, Eguards, Eivene, Eldan, Eli, Elobran, Elyce, Emoric, Espec, Evskull, Exec, Fbvger, Finam, FINGER, FINNOTE, Fleece, Forge, Fslave, Fstclrk, Gamlin, Gaoha, Gathug, GDIARY, Genaf, Genam, Genshpf, Genshpm, Gerik, Ghirst, Ghivef, Ghivem, Ghiverm, Ghocitf, Ghocitm, Giantsk, Gib, Gildea, Giltsp, Giscorl, Gith, Githsol, Glyve, Goncal, Gort, Gris, Grosuk, Gspirit, Gwwf, Gwwm, Hailcii, Haoda, Hargri, Harlotd, Harlotn, Harslav, Hbdygrd, Hcon, Hermit, Hezobol, Hgcorv, Hgdrix, Hguard, Hivef, Hiveh, Hivew, Hivvag, Hivvar, Hpatrol, Iannis, Ilquix, Ilquixn, Ilquixt, Impulse, Ingress, Inscr, Ironna, Iteeth, Jarym, Jas, Jaydee, Jhelai, Jolmi, Judge, Jujog, Jumble, Justfer, Karina, Keldor, Kellera, Kemak, Kesai, Kester, Kidmort, Kiina, Kilnn, Kimasxi, Kiri, Kitla, Knfghl, Korur, Krys, Kuatraa, Kuuyin, Labor, Lcon, Leighis, Lenny, Lingash, Looter, Lowden, Lscribe, Lwgf, Lwgm, Mach, Maeth, Majord, Malmanr, Mantuok, Manyas, Mar, Marissa, Marquez, Marrow, Marta, Mbvger, Mcon, Mengine, Mercmo, Meriman, Merkil, Mertwyn, Mftree, Mhead, Mhult, Miccah, Mime, Mit, Mmourn, Modron, MONJUG, Montagu, Mooch, Mourns-for-Trees, Mourns-for-Trees (alt), Msgr, Mslave, Murk, N1201, Nabat, Names, Neml, Nenny, Nestor, Nodd, Noname, Norochj, Ojo, Paidoor, Papuz, Peato, Penta, Pestal, Pestl, Pestle, Petlimc, Petlimi, Phineas, PLACE2, Poet, Porphir, Post, Pregal, Psmess, Ptcoff, Pttrans, Puzskel, Quell, Quentin, Quint, Quisai, Quisho, Radine, Rae, Raimon, Rangel, Ratbone, Rauk, Reek, Ridskel, Rnghcp, Roberta, Rodmm, Rotwill, Royalgd, Rubikon, Sabast, Sadjuli, Salabsh, Sandoz, Sarhava, Saros, Sarossa, Sbaur, Scmk, Scoff, Scpat1, Scpat2, Scpat3, Scpat4, Scrandm, SCTRAP, Sdthug, Sere, Sevtai, Sguard, Shad, Sheryl, Shiland, Shiv, Skatch, Skelbar, Skelcit, Skelw, Skjourn, Skscrap, SOHMIEN, Sostone, Spec, Splint, Sskull, Stalema, Standsh, Stench, Strahan, Supwep, SWORDOW, Sybil, Tarin, Tbarse, Tegarin, Tek, Test, Testes, Thildon, Thkslav, Thornco, Thorp, Thugb, Thugoe, Thugp, Thugs, Thugt, Thugv, Tipsy, Tires, Tit, Toady, Tomb, Touthva, Touthvb, Touthvc, Touthvd, Tpaint, Tplans, Trans, Transf, TRELON, Trist, Ucho, Udesire, Uhir, Ulthera, UPORTAL, Useme, Vault, Vaxis, Vivian, Vlask, Voorsha, Vorten, Wangyar, WERERAT, Wernet, Weskull, Wit, WSCROLL, Xach, Xander, Xanthia, Yelaan, Yoboy, Yvana, Zerb, Zombie, Zombie (generic), Zombie Male)
 BEGIN @4
 COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
 
@@ -13575,10 +13607,9 @@ COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
   STRING_SET 65452 @65452
   STRING_SET 65453 @65453
 
-  // Scpat
-  LOAD_TRA ~PST_AI_Voices/tra/en_US/scpat_voices.tra~
+  // Scpat1
+  LOAD_TRA ~PST_AI_Voices/tra/en_US/scpat1_voices.tra~
   STRING_SET 3072 @3072
-  STRING_SET 3073 @3073
   STRING_SET 10787 @10787
   STRING_SET 10793 @10793
   STRING_SET 10796 @10796
@@ -13586,6 +13617,10 @@ COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
   STRING_SET 10802 @10802
   STRING_SET 10805 @10805
   STRING_SET 10812 @10812
+
+  // Scpat2
+  LOAD_TRA ~PST_AI_Voices/tra/en_US/scpat2_voices.tra~
+  STRING_SET 3073 @3073
   STRING_SET 10816 @10816
   STRING_SET 10823 @10823
   STRING_SET 10826 @10826
@@ -13607,6 +13642,11 @@ COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
   STRING_SET 10891 @10891
   STRING_SET 10894 @10894
   STRING_SET 10897 @10897
+  STRING_SET 20711 @20711
+  STRING_SET 20714 @20714
+
+  // Scpat3
+  LOAD_TRA ~PST_AI_Voices/tra/en_US/scpat3_voices.tra~
   STRING_SET 10900 @10900
   STRING_SET 10908 @10908
   STRING_SET 10911 @10911
@@ -13617,6 +13657,9 @@ COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
   STRING_SET 10926 @10926
   STRING_SET 10934 @10934
   STRING_SET 10938 @10938
+
+  // Scpat4
+  LOAD_TRA ~PST_AI_Voices/tra/en_US/scpat4_voices.tra~
   STRING_SET 10941 @10941
   STRING_SET 10949 @10949
   STRING_SET 10952 @10952
@@ -13631,8 +13674,6 @@ COPY ~PST_AI_Voices/audio/minor_npcs~ ~override~
   STRING_SET 10991 @10991
   STRING_SET 10994 @10994
   STRING_SET 10998 @10998
-  STRING_SET 20711 @20711
-  STRING_SET 20714 @20714
 
   // Scrandm
   LOAD_TRA ~PST_AI_Voices/tra/en_US/scrandm_voices.tra~
